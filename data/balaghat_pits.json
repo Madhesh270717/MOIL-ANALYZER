@@ -1,0 +1,708 @@
+{
+  "generated_at": "2026-09-11T08:36:36.086090+00:00",
+  "aoi": {
+    "center": {
+      "lat": 21.83,
+      "lon": 80.23
+    },
+    "half_width_m": 5000,
+    "bounds": [
+      [
+        21.785084,
+        80.181615
+      ],
+      [
+        21.874916,
+        80.278385
+      ]
+    ]
+  },
+  "pits_per_side": 6,
+  "grid_mean_probability": 0.5977,
+  "pits": [
+    {
+      "pit_id": "P01",
+      "row": 0,
+      "col": 0,
+      "center_lat": 21.79257,
+      "center_lon": 80.189679,
+      "bounds": [
+        [
+          21.785084,
+          80.181615
+        ],
+        [
+          21.800056,
+          80.197743
+        ]
+      ],
+      "avg_probability": 0.5611,
+      "node_count": 81
+    },
+    {
+      "pit_id": "P02",
+      "row": 0,
+      "col": 1,
+      "center_lat": 21.79257,
+      "center_lon": 80.205807,
+      "bounds": [
+        [
+          21.785084,
+          80.197743
+        ],
+        [
+          21.800056,
+          80.213872
+        ]
+      ],
+      "avg_probability": 0.495,
+      "node_count": 72
+    },
+    {
+      "pit_id": "P03",
+      "row": 0,
+      "col": 2,
+      "center_lat": 21.79257,
+      "center_lon": 80.221936,
+      "bounds": [
+        [
+          21.785084,
+          80.213872
+        ],
+        [
+          21.800056,
+          80.23
+        ]
+      ],
+      "avg_probability": 0.5059,
+      "node_count": 72
+    },
+    {
+      "pit_id": "P04",
+      "row": 0,
+      "col": 3,
+      "center_lat": 21.79257,
+      "center_lon": 80.238064,
+      "bounds": [
+        [
+          21.785084,
+          80.23
+        ],
+        [
+          21.800056,
+          80.246128
+        ]
+      ],
+      "avg_probability": 0.5144,
+      "node_count": 81
+    },
+    {
+      "pit_id": "P05",
+      "row": 0,
+      "col": 4,
+      "center_lat": 21.79257,
+      "center_lon": 80.254193,
+      "bounds": [
+        [
+          21.785084,
+          80.246128
+        ],
+        [
+          21.800056,
+          80.262257
+        ]
+      ],
+      "avg_probability": 0.5208,
+      "node_count": 72
+    },
+    {
+      "pit_id": "P06",
+      "row": 0,
+      "col": 5,
+      "center_lat": 21.79257,
+      "center_lon": 80.270321,
+      "bounds": [
+        [
+          21.785084,
+          80.262257
+        ],
+        [
+          21.800056,
+          80.278385
+        ]
+      ],
+      "avg_probability": 0.4972,
+      "node_count": 81
+    },
+    {
+      "pit_id": "P07",
+      "row": 1,
+      "col": 0,
+      "center_lat": 21.807542,
+      "center_lon": 80.189679,
+      "bounds": [
+        [
+          21.800056,
+          80.181615
+        ],
+        [
+          21.815028,
+          80.197743
+        ]
+      ],
+      "avg_probability": 0.6571,
+      "node_count": 72
+    },
+    {
+      "pit_id": "P08",
+      "row": 1,
+      "col": 1,
+      "center_lat": 21.807542,
+      "center_lon": 80.205807,
+      "bounds": [
+        [
+          21.800056,
+          80.197743
+        ],
+        [
+          21.815028,
+          80.213872
+        ]
+      ],
+      "avg_probability": 0.6485,
+      "node_count": 64
+    },
+    {
+      "pit_id": "P09",
+      "row": 1,
+      "col": 2,
+      "center_lat": 21.807542,
+      "center_lon": 80.221936,
+      "bounds": [
+        [
+          21.800056,
+          80.213872
+        ],
+        [
+          21.815028,
+          80.23
+        ]
+      ],
+      "avg_probability": 0.6202,
+      "node_count": 64
+    },
+    {
+      "pit_id": "P10",
+      "row": 1,
+      "col": 3,
+      "center_lat": 21.807542,
+      "center_lon": 80.238064,
+      "bounds": [
+        [
+          21.800056,
+          80.23
+        ],
+        [
+          21.815028,
+          80.246128
+        ]
+      ],
+      "avg_probability": 0.5831,
+      "node_count": 72
+    },
+    {
+      "pit_id": "P11",
+      "row": 1,
+      "col": 4,
+      "center_lat": 21.807542,
+      "center_lon": 80.254193,
+      "bounds": [
+        [
+          21.800056,
+          80.246128
+        ],
+        [
+          21.815028,
+          80.262257
+        ]
+      ],
+      "avg_probability": 0.5294,
+      "node_count": 64
+    },
+    {
+      "pit_id": "P12",
+      "row": 1,
+      "col": 5,
+      "center_lat": 21.807542,
+      "center_lon": 80.270321,
+      "bounds": [
+        [
+          21.800056,
+          80.262257
+        ],
+        [
+          21.815028,
+          80.278385
+        ]
+      ],
+      "avg_probability": 0.5144,
+      "node_count": 72
+    },
+    {
+      "pit_id": "P13",
+      "row": 2,
+      "col": 0,
+      "center_lat": 21.822514,
+      "center_lon": 80.189679,
+      "bounds": [
+        [
+          21.815028,
+          80.181615
+        ],
+        [
+          21.83,
+          80.197743
+        ]
+      ],
+      "avg_probability": 0.6394,
+      "node_count": 72
+    },
+    {
+      "pit_id": "P14",
+      "row": 2,
+      "col": 1,
+      "center_lat": 21.822514,
+      "center_lon": 80.205807,
+      "bounds": [
+        [
+          21.815028,
+          80.197743
+        ],
+        [
+          21.83,
+          80.213872
+        ]
+      ],
+      "avg_probability": 0.6175,
+      "node_count": 64
+    },
+    {
+      "pit_id": "P15",
+      "row": 2,
+      "col": 2,
+      "center_lat": 21.822514,
+      "center_lon": 80.221936,
+      "bounds": [
+        [
+          21.815028,
+          80.213872
+        ],
+        [
+          21.83,
+          80.23
+        ]
+      ],
+      "avg_probability": 0.6356,
+      "node_count": 64
+    },
+    {
+      "pit_id": "P16",
+      "row": 2,
+      "col": 3,
+      "center_lat": 21.822514,
+      "center_lon": 80.238064,
+      "bounds": [
+        [
+          21.815028,
+          80.23
+        ],
+        [
+          21.83,
+          80.246128
+        ]
+      ],
+      "avg_probability": 0.6341,
+      "node_count": 72
+    },
+    {
+      "pit_id": "P17",
+      "row": 2,
+      "col": 4,
+      "center_lat": 21.822514,
+      "center_lon": 80.254193,
+      "bounds": [
+        [
+          21.815028,
+          80.246128
+        ],
+        [
+          21.83,
+          80.262257
+        ]
+      ],
+      "avg_probability": 0.6269,
+      "node_count": 64
+    },
+    {
+      "pit_id": "P18",
+      "row": 2,
+      "col": 5,
+      "center_lat": 21.822514,
+      "center_lon": 80.270321,
+      "bounds": [
+        [
+          21.815028,
+          80.262257
+        ],
+        [
+          21.83,
+          80.278385
+        ]
+      ],
+      "avg_probability": 0.6127,
+      "node_count": 72
+    },
+    {
+      "pit_id": "P19",
+      "row": 3,
+      "col": 0,
+      "center_lat": 21.837486,
+      "center_lon": 80.189679,
+      "bounds": [
+        [
+          21.83,
+          80.181615
+        ],
+        [
+          21.844972,
+          80.197743
+        ]
+      ],
+      "avg_probability": 0.5535,
+      "node_count": 81
+    },
+    {
+      "pit_id": "P20",
+      "row": 3,
+      "col": 1,
+      "center_lat": 21.837486,
+      "center_lon": 80.205807,
+      "bounds": [
+        [
+          21.83,
+          80.197743
+        ],
+        [
+          21.844972,
+          80.213872
+        ]
+      ],
+      "avg_probability": 0.5693,
+      "node_count": 72
+    },
+    {
+      "pit_id": "P21",
+      "row": 3,
+      "col": 2,
+      "center_lat": 21.837486,
+      "center_lon": 80.221936,
+      "bounds": [
+        [
+          21.83,
+          80.213872
+        ],
+        [
+          21.844972,
+          80.23
+        ]
+      ],
+      "avg_probability": 0.6203,
+      "node_count": 72
+    },
+    {
+      "pit_id": "P22",
+      "row": 3,
+      "col": 3,
+      "center_lat": 21.837486,
+      "center_lon": 80.238064,
+      "bounds": [
+        [
+          21.83,
+          80.23
+        ],
+        [
+          21.844972,
+          80.246128
+        ]
+      ],
+      "avg_probability": 0.6318,
+      "node_count": 81
+    },
+    {
+      "pit_id": "P23",
+      "row": 3,
+      "col": 4,
+      "center_lat": 21.837486,
+      "center_lon": 80.254193,
+      "bounds": [
+        [
+          21.83,
+          80.246128
+        ],
+        [
+          21.844972,
+          80.262257
+        ]
+      ],
+      "avg_probability": 0.6367,
+      "node_count": 72
+    },
+    {
+      "pit_id": "P24",
+      "row": 3,
+      "col": 5,
+      "center_lat": 21.837486,
+      "center_lon": 80.270321,
+      "bounds": [
+        [
+          21.83,
+          80.262257
+        ],
+        [
+          21.844972,
+          80.278385
+        ]
+      ],
+      "avg_probability": 0.6408,
+      "node_count": 81
+    },
+    {
+      "pit_id": "P25",
+      "row": 4,
+      "col": 0,
+      "center_lat": 21.852458,
+      "center_lon": 80.189679,
+      "bounds": [
+        [
+          21.844972,
+          80.181615
+        ],
+        [
+          21.859944,
+          80.197743
+        ]
+      ],
+      "avg_probability": 0.5719,
+      "node_count": 72
+    },
+    {
+      "pit_id": "P26",
+      "row": 4,
+      "col": 1,
+      "center_lat": 21.852458,
+      "center_lon": 80.205807,
+      "bounds": [
+        [
+          21.844972,
+          80.197743
+        ],
+        [
+          21.859944,
+          80.213872
+        ]
+      ],
+      "avg_probability": 0.541,
+      "node_count": 64
+    },
+    {
+      "pit_id": "P27",
+      "row": 4,
+      "col": 2,
+      "center_lat": 21.852458,
+      "center_lon": 80.221936,
+      "bounds": [
+        [
+          21.844972,
+          80.213872
+        ],
+        [
+          21.859944,
+          80.23
+        ]
+      ],
+      "avg_probability": 0.6078,
+      "node_count": 64
+    },
+    {
+      "pit_id": "P28",
+      "row": 4,
+      "col": 3,
+      "center_lat": 21.852458,
+      "center_lon": 80.238064,
+      "bounds": [
+        [
+          21.844972,
+          80.23
+        ],
+        [
+          21.859944,
+          80.246128
+        ]
+      ],
+      "avg_probability": 0.6649,
+      "node_count": 72
+    },
+    {
+      "pit_id": "P29",
+      "row": 4,
+      "col": 4,
+      "center_lat": 21.852458,
+      "center_lon": 80.254193,
+      "bounds": [
+        [
+          21.844972,
+          80.246128
+        ],
+        [
+          21.859944,
+          80.262257
+        ]
+      ],
+      "avg_probability": 0.632,
+      "node_count": 64
+    },
+    {
+      "pit_id": "P30",
+      "row": 4,
+      "col": 5,
+      "center_lat": 21.852458,
+      "center_lon": 80.270321,
+      "bounds": [
+        [
+          21.844972,
+          80.262257
+        ],
+        [
+          21.859944,
+          80.278385
+        ]
+      ],
+      "avg_probability": 0.6422,
+      "node_count": 72
+    },
+    {
+      "pit_id": "P31",
+      "row": 5,
+      "col": 0,
+      "center_lat": 21.86743,
+      "center_lon": 80.189679,
+      "bounds": [
+        [
+          21.859944,
+          80.181615
+        ],
+        [
+          21.874916,
+          80.197743
+        ]
+      ],
+      "avg_probability": 0.6206,
+      "node_count": 81
+    },
+    {
+      "pit_id": "P32",
+      "row": 5,
+      "col": 1,
+      "center_lat": 21.86743,
+      "center_lon": 80.205807,
+      "bounds": [
+        [
+          21.859944,
+          80.197743
+        ],
+        [
+          21.874916,
+          80.213872
+        ]
+      ],
+      "avg_probability": 0.5746,
+      "node_count": 72
+    },
+    {
+      "pit_id": "P33",
+      "row": 5,
+      "col": 2,
+      "center_lat": 21.86743,
+      "center_lon": 80.221936,
+      "bounds": [
+        [
+          21.859944,
+          80.213872
+        ],
+        [
+          21.874916,
+          80.23
+        ]
+      ],
+      "avg_probability": 0.5548,
+      "node_count": 72
+    },
+    {
+      "pit_id": "P34",
+      "row": 5,
+      "col": 3,
+      "center_lat": 21.86743,
+      "center_lon": 80.238064,
+      "bounds": [
+        [
+          21.859944,
+          80.23
+        ],
+        [
+          21.874916,
+          80.246128
+        ]
+      ],
+      "avg_probability": 0.6899,
+      "node_count": 81
+    },
+    {
+      "pit_id": "P35",
+      "row": 5,
+      "col": 4,
+      "center_lat": 21.86743,
+      "center_lon": 80.254193,
+      "bounds": [
+        [
+          21.859944,
+          80.246128
+        ],
+        [
+          21.874916,
+          80.262257
+        ]
+      ],
+      "avg_probability": 0.6944,
+      "node_count": 72
+    },
+    {
+      "pit_id": "P36",
+      "row": 5,
+      "col": 5,
+      "center_lat": 21.86743,
+      "center_lon": 80.270321,
+      "bounds": [
+        [
+          21.859944,
+          80.262257
+        ],
+        [
+          21.874916,
+          80.278385
+        ]
+      ],
+      "avg_probability": 0.6655,
+      "node_count": 81
+    }
+  ]
+}

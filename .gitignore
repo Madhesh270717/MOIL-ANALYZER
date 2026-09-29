@@ -1,0 +1,31 @@
+# Credentials and secrets
+credentials/
+backend/credentials/
+*.json
+!package.json
+!package-lock.json
+!.oxlintrc.json
+!data/balaghat_live_rainfall.json
+!data/balaghat_pits.json
+
+# Environment variables
+.env
+.env.local
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pkl
+.pytest_cache/
+.coverage
+htmlcov/
+env/
+venv/
+.venv/
+
+# Node
+node_modules/
+dist/
+.DS_Store

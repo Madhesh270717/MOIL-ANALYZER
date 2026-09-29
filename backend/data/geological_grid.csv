@@ -1,0 +1,241 @@
+Cell_ID,Mine_ID,Block_ID,Zone_ID,Latitude,Longitude,Rock_Type,Geological_Unit,Mn_pct,Mn_ppm,Fault_Distance_km,Lineament_Density_km_per_km2,Elevation_m,Bouguer_Anomaly_mGal,Magnetic_Anomaly_nT,Predicted_Reserve_Probability,Known_Manganese_Occurrence,Data_Type
+BGT-B1-Z1-C001,balaghat,BGT-B1,BGT-B1-Z1,21.8323,80.2212,Gondite,Sitasaongi Formation,38.32,383200,0.41,2.51,322.9,-35.4,316.0,0.83,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C002,balaghat,BGT-B1,BGT-B1-Z1,21.8323,80.2231,Gondite,Chorbaoli Formation,41.22,412200,1.16,1.58,298.1,-36.6,296.1,0.752,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C003,balaghat,BGT-B1,BGT-B1-Z1,21.8323,80.225,Quartzite,Mansar Formation (Sausar Group),36.9,369000,2.19,2.32,302.0,-38.6,438.3,0.679,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C004,balaghat,BGT-B1,BGT-B1-Z1,21.8323,80.2269,Manganese Ore,Chorbaoli Formation,42.02,420200,1.28,1.89,330.6,-35.1,432.3,0.945,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C005,balaghat,BGT-B1,BGT-B1-Z1,21.8323,80.2288,Manganese Ore,Mansar Formation (Sausar Group),41.8,418000,1.16,1.29,281.9,-37.1,447.4,0.793,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C006,balaghat,BGT-B1,BGT-B1-Z1,21.8341,80.2212,Gondite,Chorbaoli Formation,40.39,403900,0.1,3.16,280.2,-39.0,466.4,0.616,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C007,balaghat,BGT-B1,BGT-B1-Z1,21.8341,80.2231,Manganese Ore,Sitasaongi Formation,39.39,393900,1.4,3.23,302.7,-37.4,380.9,0.659,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C008,balaghat,BGT-B1,BGT-B1-Z1,21.8341,80.225,Manganese Ore,Mansar Formation (Sausar Group),28.63,286300,2.25,1.73,293.4,-38.8,277.7,0.688,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C009,balaghat,BGT-B1,BGT-B1-Z1,21.8341,80.2269,Gondite,Mansar Formation (Sausar Group),40.04,400400,0.28,3.72,334.6,-42.3,361.1,0.682,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C010,balaghat,BGT-B1,BGT-B1-Z1,21.8341,80.2288,Manganese Ore,Sitasaongi Formation,43.34,433400,0.28,2.54,324.4,-35.2,316.7,0.836,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C011,balaghat,BGT-B1,BGT-B1-Z1,21.8359,80.2212,Quartzite,Mansar Formation (Sausar Group),35.95,359500,1.17,3.14,314.6,-33.7,422.6,0.81,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C012,balaghat,BGT-B1,BGT-B1-Z1,21.8359,80.2231,Gondite,Sitasaongi Formation,39.73,397299,0.24,2.93,323.4,-28.9,407.8,0.655,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C013,balaghat,BGT-B1,BGT-B1-Z1,21.8359,80.225,Gondite,Chorbaoli Formation,37.56,375600,0.61,3.17,290.7,-34.5,342.1,0.91,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C014,balaghat,BGT-B1,BGT-B1-Z1,21.8359,80.2269,Manganese Ore,Mansar Formation (Sausar Group),45.7,457000,0.92,1.95,257.3,-34.6,321.0,0.757,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C015,balaghat,BGT-B1,BGT-B1-Z1,21.8359,80.2288,Manganese Ore,Sitasaongi Formation,41.42,414200,0.25,2.51,335.2,-28.5,567.8,0.913,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C016,balaghat,BGT-B1,BGT-B1-Z1,21.8377,80.2212,Quartzite,Mansar Formation (Sausar Group),38.1,381000,1.02,3.6,295.5,-32.9,354.0,0.931,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C017,balaghat,BGT-B1,BGT-B1-Z1,21.8377,80.2231,Quartzite,Mansar Formation (Sausar Group),40.3,403000,0.81,2.04,315.7,-34.4,282.5,0.687,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C018,balaghat,BGT-B1,BGT-B1-Z1,21.8377,80.225,Quartzite,Sitasaongi Formation,41.3,413000,1.59,0.88,279.7,-27.4,355.6,0.838,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C019,balaghat,BGT-B1,BGT-B1-Z1,21.8377,80.2269,Manganese Ore,Mansar Formation (Sausar Group),33.09,330900,1.48,1.25,348.7,-38.6,427.0,0.672,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z1-C020,balaghat,BGT-B1,BGT-B1-Z1,21.8377,80.2288,Quartzite,Mansar Formation (Sausar Group),32.84,328400,0.61,3.4,316.6,-33.3,420.1,0.722,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C001,balaghat,BGT-B1,BGT-B1-Z2,21.8323,80.2312,Mica Schist,Sitasaongi Formation,9.98,99800,1.74,0.86,337.8,-45.1,157.2,0.479,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C002,balaghat,BGT-B1,BGT-B1-Z2,21.8323,80.2331,Phyllite,Sitasaongi Formation,15.15,151500,1.31,2.12,350.2,-49.0,336.3,0.34,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C003,balaghat,BGT-B1,BGT-B1-Z2,21.8323,80.235,Quartzite,Mansar Formation (Sausar Group),16.26,162600,1.76,1.15,348.1,-40.1,259.6,0.19,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C004,balaghat,BGT-B1,BGT-B1-Z2,21.8323,80.2369,Mica Schist,Sitasaongi Formation,10.44,104400,2.1,1.6,391.7,-54.2,348.7,0.363,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C005,balaghat,BGT-B1,BGT-B1-Z2,21.8323,80.2388,Quartzite,Chorbaoli Formation,23.51,235100,1.79,2.94,323.9,-40.9,265.6,0.205,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C006,balaghat,BGT-B1,BGT-B1-Z2,21.8341,80.2312,Phyllite,Chorbaoli Formation,16.45,164500,1.52,2.2,335.3,-33.6,245.3,0.343,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C007,balaghat,BGT-B1,BGT-B1-Z2,21.8341,80.2331,Quartzite,Sitasaongi Formation,20.37,203700,1.77,1.53,320.8,-47.6,476.4,0.322,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C008,balaghat,BGT-B1,BGT-B1-Z2,21.8341,80.235,Mica Schist,Sitasaongi Formation,13.98,139800,1.53,0.99,320.1,-40.9,267.3,0.435,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C009,balaghat,BGT-B1,BGT-B1-Z2,21.8341,80.2369,Mica Schist,Sitasaongi Formation,15.7,157000,1.93,1.99,315.6,-35.7,267.4,0.199,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C010,balaghat,BGT-B1,BGT-B1-Z2,21.8341,80.2388,Quartzite,Chorbaoli Formation,20.37,203700,2.38,1.12,326.3,-43.6,404.0,0.384,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C011,balaghat,BGT-B1,BGT-B1-Z2,21.8359,80.2312,Phyllite,Sitasaongi Formation,18.9,189000,2.64,0.27,350.3,-42.2,296.2,0.256,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C012,balaghat,BGT-B1,BGT-B1-Z2,21.8359,80.2331,Mica Schist,Chorbaoli Formation,17.1,171000,2.05,1.47,392.9,-34.0,202.0,0.529,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C013,balaghat,BGT-B1,BGT-B1-Z2,21.8359,80.235,Phyllite,Sitasaongi Formation,17.92,179200,0.72,0.25,287.3,-43.4,292.8,0.273,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C014,balaghat,BGT-B1,BGT-B1-Z2,21.8359,80.2369,Quartzite,Chorbaoli Formation,22.16,221600,2.79,1.49,387.3,-43.2,259.4,0.278,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C015,balaghat,BGT-B1,BGT-B1-Z2,21.8359,80.2388,Quartzite,Mansar Formation (Sausar Group),9.8,98000,2.82,2.03,311.3,-43.1,453.0,0.388,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C016,balaghat,BGT-B1,BGT-B1-Z2,21.8377,80.2312,Phyllite,Chorbaoli Formation,14.72,147200,1.59,1.44,346.5,-39.5,294.7,0.203,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C017,balaghat,BGT-B1,BGT-B1-Z2,21.8377,80.2331,Phyllite,Chorbaoli Formation,11.74,117400,1.65,2.47,322.0,-42.0,315.3,0.369,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C018,balaghat,BGT-B1,BGT-B1-Z2,21.8377,80.235,Mica Schist,Chorbaoli Formation,12.68,126800,1.9,0.68,378.7,-41.3,296.5,0.38,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C019,balaghat,BGT-B1,BGT-B1-Z2,21.8377,80.2369,Mica Schist,Mansar Formation (Sausar Group),11.67,116700,1.15,0.46,316.3,-33.2,280.9,0.246,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B1-Z2-C020,balaghat,BGT-B1,BGT-B1-Z2,21.8377,80.2388,Mica Schist,Sitasaongi Formation,14.82,148200,1.68,1.55,312.6,-33.2,246.9,0.481,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C001,balaghat,BGT-B2,BGT-B2-Z1,21.8173,80.2112,Manganese Ore,Chorbaoli Formation,42.28,422800,1.75,2.15,319.2,-38.3,419.2,0.962,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C002,balaghat,BGT-B2,BGT-B2-Z1,21.8173,80.2131,Gondite,Chorbaoli Formation,39.62,396200,1.84,1.85,325.6,-27.2,464.6,0.796,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C003,balaghat,BGT-B2,BGT-B2-Z1,21.8173,80.215,Manganese Ore,Sitasaongi Formation,34.79,347900,0.1,2.22,319.5,-32.2,369.3,0.901,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C004,balaghat,BGT-B2,BGT-B2-Z1,21.8173,80.2169,Manganese Ore,Mansar Formation (Sausar Group),44.39,443900,1.11,1.6,346.9,-48.3,494.1,0.98,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C005,balaghat,BGT-B2,BGT-B2-Z1,21.8173,80.2188,Quartzite,Sitasaongi Formation,39.0,390000,1.08,1.52,325.4,-32.4,302.8,0.809,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C006,balaghat,BGT-B2,BGT-B2-Z1,21.8191,80.2112,Gondite,Sitasaongi Formation,37.37,373700,1.09,1.98,298.1,-38.8,544.0,0.935,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C007,balaghat,BGT-B2,BGT-B2-Z1,21.8191,80.2131,Quartzite,Chorbaoli Formation,36.82,368200,1.52,1.82,325.6,-31.4,466.2,0.98,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C008,balaghat,BGT-B2,BGT-B2-Z1,21.8191,80.215,Gondite,Sitasaongi Formation,35.65,356500,0.53,2.28,314.8,-36.2,487.4,0.914,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C009,balaghat,BGT-B2,BGT-B2-Z1,21.8191,80.2169,Manganese Ore,Mansar Formation (Sausar Group),33.76,337600,1.05,2.48,339.3,-27.7,332.2,0.888,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C010,balaghat,BGT-B2,BGT-B2-Z1,21.8191,80.2188,Manganese Ore,Mansar Formation (Sausar Group),32.16,321599,0.81,1.64,350.0,-34.9,297.9,0.907,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C011,balaghat,BGT-B2,BGT-B2-Z1,21.8209,80.2112,Gondite,Sitasaongi Formation,41.83,418300,0.97,0.95,321.7,-30.4,444.3,0.96,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C012,balaghat,BGT-B2,BGT-B2-Z1,21.8209,80.2131,Quartzite,Mansar Formation (Sausar Group),36.76,367600,0.18,2.34,347.1,-26.7,414.4,0.877,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C013,balaghat,BGT-B2,BGT-B2-Z1,21.8209,80.215,Gondite,Chorbaoli Formation,43.59,435900,2.36,2.08,314.2,-35.0,555.7,0.95,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C014,balaghat,BGT-B2,BGT-B2-Z1,21.8209,80.2169,Manganese Ore,Sitasaongi Formation,31.88,318800,0.1,0.89,284.6,-29.7,344.9,0.718,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C015,balaghat,BGT-B2,BGT-B2-Z1,21.8209,80.2188,Manganese Ore,Mansar Formation (Sausar Group),41.25,412500,0.18,3.22,293.2,-38.8,419.2,0.98,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C016,balaghat,BGT-B2,BGT-B2-Z1,21.8227,80.2112,Manganese Ore,Chorbaoli Formation,39.04,390400,0.11,1.91,302.4,-31.4,438.8,0.972,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C017,balaghat,BGT-B2,BGT-B2-Z1,21.8227,80.2131,Quartzite,Chorbaoli Formation,40.75,407500,1.08,2.0,323.5,-33.8,485.7,0.791,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C018,balaghat,BGT-B2,BGT-B2-Z1,21.8227,80.215,Manganese Ore,Sitasaongi Formation,46.37,463700,1.37,1.38,339.1,-34.1,405.0,0.865,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C019,balaghat,BGT-B2,BGT-B2-Z1,21.8227,80.2169,Gondite,Sitasaongi Formation,42.05,420500,0.71,1.16,344.6,-31.8,330.0,0.807,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z1-C020,balaghat,BGT-B2,BGT-B2-Z1,21.8227,80.2188,Quartzite,Chorbaoli Formation,42.67,426700,0.45,2.18,340.1,-40.7,481.7,0.867,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C001,balaghat,BGT-B2,BGT-B2-Z2,21.8173,80.2212,Phyllite,Mansar Formation (Sausar Group),26.0,260000,0.71,0.32,323.4,-50.4,243.6,0.531,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C002,balaghat,BGT-B2,BGT-B2-Z2,21.8173,80.2231,Mica Schist,Chorbaoli Formation,16.12,161200,1.42,1.57,357.2,-48.2,317.8,0.501,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C003,balaghat,BGT-B2,BGT-B2-Z2,21.8173,80.225,Phyllite,Sitasaongi Formation,13.97,139700,2.13,2.34,338.8,-37.4,300.0,0.37,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C004,balaghat,BGT-B2,BGT-B2-Z2,21.8173,80.2269,Quartzite,Chorbaoli Formation,15.22,152200,1.85,1.62,382.8,-46.2,264.3,0.295,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C005,balaghat,BGT-B2,BGT-B2-Z2,21.8173,80.2288,Quartzite,Sitasaongi Formation,19.29,192900,1.51,1.58,359.0,-55.2,188.7,0.511,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C006,balaghat,BGT-B2,BGT-B2-Z2,21.8191,80.2212,Mica Schist,Chorbaoli Formation,16.33,163299,1.72,2.11,338.5,-49.7,141.7,0.311,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C007,balaghat,BGT-B2,BGT-B2-Z2,21.8191,80.2231,Gondite,Sitasaongi Formation,44.62,446200,1.36,2.07,307.7,-33.6,265.3,0.609,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C008,balaghat,BGT-B2,BGT-B2-Z2,21.8191,80.225,Quartzite,Chorbaoli Formation,14.94,149400,1.08,1.08,345.5,-48.5,297.6,0.56,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C009,balaghat,BGT-B2,BGT-B2-Z2,21.8191,80.2269,Mica Schist,Sitasaongi Formation,9.67,96700,2.11,2.12,317.5,-40.9,335.7,0.566,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C010,balaghat,BGT-B2,BGT-B2-Z2,21.8191,80.2288,Manganese Ore,Chorbaoli Formation,30.96,309600,0.1,2.42,290.7,-31.9,320.7,0.618,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C011,balaghat,BGT-B2,BGT-B2-Z2,21.8209,80.2212,Mica Schist,Chorbaoli Formation,13.01,130100,2.66,1.6,302.5,-45.7,244.8,0.577,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C012,balaghat,BGT-B2,BGT-B2-Z2,21.8209,80.2231,Mica Schist,Sitasaongi Formation,9.33,93300,1.86,1.57,355.2,-53.2,218.1,0.576,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C013,balaghat,BGT-B2,BGT-B2-Z2,21.8209,80.225,Mica Schist,Chorbaoli Formation,20.85,208500,2.45,0.59,338.0,-46.2,206.1,0.274,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C014,balaghat,BGT-B2,BGT-B2-Z2,21.8209,80.2269,Mica Schist,Sitasaongi Formation,16.95,169500,2.11,1.42,315.0,-48.9,261.1,0.431,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C015,balaghat,BGT-B2,BGT-B2-Z2,21.8209,80.2288,Quartzite,Chorbaoli Formation,9.58,95800,1.57,1.11,341.1,-41.8,411.1,0.394,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C016,balaghat,BGT-B2,BGT-B2-Z2,21.8227,80.2212,Quartzite,Sitasaongi Formation,21.29,212900,1.43,1.95,373.2,-44.3,392.1,0.313,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C017,balaghat,BGT-B2,BGT-B2-Z2,21.8227,80.2231,Mica Schist,Mansar Formation (Sausar Group),16.08,160799,1.22,1.27,351.3,-43.8,264.8,0.485,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C018,balaghat,BGT-B2,BGT-B2-Z2,21.8227,80.225,Quartzite,Chorbaoli Formation,35.67,356700,2.41,1.54,287.0,-34.4,417.1,0.621,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C019,balaghat,BGT-B2,BGT-B2-Z2,21.8227,80.2269,Phyllite,Chorbaoli Formation,7.0,70000,3.55,1.58,384.7,-41.3,316.9,0.439,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B2-Z2-C020,balaghat,BGT-B2,BGT-B2-Z2,21.8227,80.2288,Quartzite,Sitasaongi Formation,12.88,128800,1.38,2.15,278.4,-39.1,327.0,0.297,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C001,balaghat,BGT-B3,BGT-B3-Z1,21.8503,80.2332,Quartzite,Sitasaongi Formation,33.36,333600,0.39,2.41,293.8,-31.5,375.7,0.715,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C002,balaghat,BGT-B3,BGT-B3-Z1,21.8503,80.2351,Manganese Ore,Chorbaoli Formation,37.06,370600,0.8,2.61,312.5,-34.4,305.2,0.796,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C003,balaghat,BGT-B3,BGT-B3-Z1,21.8503,80.237,Gondite,Mansar Formation (Sausar Group),38.86,388600,1.72,2.7,333.8,-37.1,331.6,0.678,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C004,balaghat,BGT-B3,BGT-B3-Z1,21.8503,80.2389,Quartzite,Sitasaongi Formation,11.98,119800,3.35,1.99,342.9,-44.0,423.4,0.523,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C005,balaghat,BGT-B3,BGT-B3-Z1,21.8503,80.2408,Gondite,Mansar Formation (Sausar Group),33.47,334700,1.27,1.38,276.5,-34.1,384.4,0.678,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C006,balaghat,BGT-B3,BGT-B3-Z1,21.8521,80.2332,Quartzite,Chorbaoli Formation,38.46,384600,0.1,2.21,326.0,-37.9,302.2,0.725,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C007,balaghat,BGT-B3,BGT-B3-Z1,21.8521,80.2351,Manganese Ore,Mansar Formation (Sausar Group),32.88,328800,1.23,3.18,292.1,-35.9,399.6,0.62,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C008,balaghat,BGT-B3,BGT-B3-Z1,21.8521,80.237,Quartzite,Mansar Formation (Sausar Group),37.71,377100,0.83,2.42,274.3,-42.5,351.3,0.786,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C009,balaghat,BGT-B3,BGT-B3-Z1,21.8521,80.2389,Quartzite,Chorbaoli Formation,35.1,351000,1.09,3.05,314.5,-29.8,228.2,0.609,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C010,balaghat,BGT-B3,BGT-B3-Z1,21.8521,80.2408,Phyllite,Chorbaoli Formation,12.99,129900,2.14,1.93,356.8,-51.8,302.9,0.565,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C011,balaghat,BGT-B3,BGT-B3-Z1,21.8539,80.2332,Quartzite,Mansar Formation (Sausar Group),40.38,403800,0.96,2.29,325.9,-33.6,261.4,0.733,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C012,balaghat,BGT-B3,BGT-B3-Z1,21.8539,80.2351,Quartzite,Mansar Formation (Sausar Group),37.04,370400,0.95,1.33,311.4,-40.4,410.8,0.677,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C013,balaghat,BGT-B3,BGT-B3-Z1,21.8539,80.237,Quartzite,Mansar Formation (Sausar Group),16.8,168000,2.28,2.11,315.4,-34.7,317.8,0.513,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C014,balaghat,BGT-B3,BGT-B3-Z1,21.8539,80.2389,Manganese Ore,Mansar Formation (Sausar Group),33.08,330800,0.64,4.12,352.9,-30.2,366.6,0.696,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C015,balaghat,BGT-B3,BGT-B3-Z1,21.8539,80.2408,Gondite,Mansar Formation (Sausar Group),31.35,313500,0.91,1.74,314.0,-27.9,229.0,0.673,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C016,balaghat,BGT-B3,BGT-B3-Z1,21.8557,80.2332,Gondite,Chorbaoli Formation,30.94,309400,1.88,0.86,312.7,-32.4,364.5,0.604,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C017,balaghat,BGT-B3,BGT-B3-Z1,21.8557,80.2351,Quartzite,Mansar Formation (Sausar Group),13.96,139600,1.86,1.43,287.9,-50.7,250.5,0.562,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C018,balaghat,BGT-B3,BGT-B3-Z1,21.8557,80.237,Manganese Ore,Sitasaongi Formation,35.29,352900,1.58,1.56,308.5,-36.4,453.6,0.601,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C019,balaghat,BGT-B3,BGT-B3-Z1,21.8557,80.2389,Phyllite,Chorbaoli Formation,14.89,148900,3.18,2.55,346.2,-46.0,177.2,0.526,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z1-C020,balaghat,BGT-B3,BGT-B3-Z1,21.8557,80.2408,Quartzite,Chorbaoli Formation,43.72,437200,0.81,3.1,321.0,-43.5,328.7,0.796,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C001,balaghat,BGT-B3,BGT-B3-Z2,21.8503,80.2432,Phyllite,Chorbaoli Formation,16.78,167800,1.84,2.69,287.0,-33.7,355.3,0.056,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C002,balaghat,BGT-B3,BGT-B3-Z2,21.8503,80.2451,Quartzite,Sitasaongi Formation,12.36,123600,2.0,1.17,368.0,-57.6,263.6,0.142,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C003,balaghat,BGT-B3,BGT-B3-Z2,21.8503,80.247,Phyllite,Sitasaongi Formation,14.94,149400,1.64,2.37,349.7,-24.8,184.8,0.279,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C004,balaghat,BGT-B3,BGT-B3-Z2,21.8503,80.2489,Mica Schist,Chorbaoli Formation,14.51,145100,0.55,1.89,343.9,-43.4,316.2,0.053,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C005,balaghat,BGT-B3,BGT-B3-Z2,21.8503,80.2508,Phyllite,Mansar Formation (Sausar Group),10.66,106600,2.46,1.62,360.7,-44.6,259.9,0.307,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C006,balaghat,BGT-B3,BGT-B3-Z2,21.8521,80.2432,Phyllite,Chorbaoli Formation,11.29,112899,1.39,1.88,327.8,-47.5,313.0,0.05,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C007,balaghat,BGT-B3,BGT-B3-Z2,21.8521,80.2451,Phyllite,Sitasaongi Formation,20.12,201200,1.1,1.95,357.6,-47.5,376.9,0.26,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C008,balaghat,BGT-B3,BGT-B3-Z2,21.8521,80.247,Quartzite,Sitasaongi Formation,13.99,139900,3.35,1.79,358.4,-47.4,305.4,0.366,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C009,balaghat,BGT-B3,BGT-B3-Z2,21.8521,80.2489,Phyllite,Sitasaongi Formation,18.18,181800,1.77,2.47,329.9,-44.2,389.4,0.149,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C010,balaghat,BGT-B3,BGT-B3-Z2,21.8521,80.2508,Mica Schist,Chorbaoli Formation,21.0,210000,1.1,2.24,288.2,-42.3,250.0,0.3,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C011,balaghat,BGT-B3,BGT-B3-Z2,21.8539,80.2432,Mica Schist,Sitasaongi Formation,8.54,85399,0.97,1.44,298.9,-38.6,216.3,0.099,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C012,balaghat,BGT-B3,BGT-B3-Z2,21.8539,80.2451,Phyllite,Chorbaoli Formation,14.31,143100,1.6,1.39,345.0,-38.5,266.5,0.253,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C013,balaghat,BGT-B3,BGT-B3-Z2,21.8539,80.247,Mica Schist,Chorbaoli Formation,16.33,163299,0.21,1.13,357.0,-43.5,341.6,0.083,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C014,balaghat,BGT-B3,BGT-B3-Z2,21.8539,80.2489,Phyllite,Sitasaongi Formation,13.9,139000,1.07,2.75,377.5,-33.1,441.1,0.368,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C015,balaghat,BGT-B3,BGT-B3-Z2,21.8539,80.2508,Phyllite,Chorbaoli Formation,22.84,228400,1.5,0.89,368.0,-35.6,307.6,0.281,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C016,balaghat,BGT-B3,BGT-B3-Z2,21.8557,80.2432,Quartzite,Mansar Formation (Sausar Group),10.89,108900,0.86,2.23,281.7,-39.6,332.2,0.153,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C017,balaghat,BGT-B3,BGT-B3-Z2,21.8557,80.2451,Quartzite,Sitasaongi Formation,10.77,107700,2.77,1.09,306.6,-52.1,324.2,0.243,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C018,balaghat,BGT-B3,BGT-B3-Z2,21.8557,80.247,Mica Schist,Chorbaoli Formation,15.32,153200,1.86,1.9,334.7,-42.3,386.5,0.167,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C019,balaghat,BGT-B3,BGT-B3-Z2,21.8557,80.2489,Quartzite,Sitasaongi Formation,21.33,213299,1.41,0.83,326.7,-44.8,155.9,0.183,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+BGT-B3-Z2-C020,balaghat,BGT-B3,BGT-B3-Z2,21.8557,80.2508,Phyllite,Mansar Formation (Sausar Group),5.16,51600,0.54,1.43,372.6,-41.7,374.3,0.056,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C001,ukwa,UKW-B1,UKW-B1-Z1,21.9723,80.4762,Gondite,Mansar Formation (Sausar Group),42.78,427800,0.83,3.12,296.7,-31.3,432.4,0.928,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C002,ukwa,UKW-B1,UKW-B1-Z1,21.9723,80.4781,Manganese Ore,Mansar Formation (Sausar Group),41.11,411100,1.14,1.11,270.0,-30.7,431.1,0.962,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C003,ukwa,UKW-B1,UKW-B1-Z1,21.9723,80.48,Gondite,Mansar Formation (Sausar Group),45.46,454600,1.36,2.43,329.8,-32.0,361.1,0.903,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C004,ukwa,UKW-B1,UKW-B1-Z1,21.9723,80.4819,Quartzite,Sitasaongi Formation,47.4,474000,0.92,2.53,324.2,-35.0,456.4,0.904,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C005,ukwa,UKW-B1,UKW-B1-Z1,21.9723,80.4838,Gondite,Sitasaongi Formation,46.42,464200,1.01,2.35,334.4,-34.2,431.9,0.932,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C006,ukwa,UKW-B1,UKW-B1-Z1,21.9741,80.4762,Gondite,Sitasaongi Formation,38.36,383600,0.16,2.45,289.0,-30.4,466.2,0.772,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C007,ukwa,UKW-B1,UKW-B1-Z1,21.9741,80.4781,Quartzite,Sitasaongi Formation,33.56,335600,0.8,2.54,313.3,-40.0,420.0,0.636,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C008,ukwa,UKW-B1,UKW-B1-Z1,21.9741,80.48,Quartzite,Sitasaongi Formation,39.98,399799,0.76,3.14,329.6,-31.3,434.1,0.659,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C009,ukwa,UKW-B1,UKW-B1-Z1,21.9741,80.4819,Quartzite,Sitasaongi Formation,31.88,318800,2.77,1.54,310.4,-36.8,388.9,0.831,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C010,ukwa,UKW-B1,UKW-B1-Z1,21.9741,80.4838,Quartzite,Chorbaoli Formation,34.01,340100,0.1,2.21,299.9,-38.4,426.2,0.661,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C011,ukwa,UKW-B1,UKW-B1-Z1,21.9759,80.4762,Manganese Ore,Chorbaoli Formation,36.76,367600,1.05,1.37,329.5,-37.0,440.7,0.918,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C012,ukwa,UKW-B1,UKW-B1-Z1,21.9759,80.4781,Gondite,Sitasaongi Formation,40.19,401900,1.06,2.21,274.9,-41.2,375.4,0.644,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C013,ukwa,UKW-B1,UKW-B1-Z1,21.9759,80.48,Quartzite,Chorbaoli Formation,41.52,415200,1.32,1.71,283.4,-29.6,321.7,0.822,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C014,ukwa,UKW-B1,UKW-B1-Z1,21.9759,80.4819,Manganese Ore,Sitasaongi Formation,42.76,427600,1.37,2.75,335.9,-32.3,353.0,0.836,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C015,ukwa,UKW-B1,UKW-B1-Z1,21.9759,80.4838,Manganese Ore,Sitasaongi Formation,31.2,312000,0.37,3.37,265.7,-32.1,316.0,0.752,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C016,ukwa,UKW-B1,UKW-B1-Z1,21.9777,80.4762,Quartzite,Chorbaoli Formation,46.14,461400,0.37,2.25,328.8,-36.3,348.3,0.82,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C017,ukwa,UKW-B1,UKW-B1-Z1,21.9777,80.4781,Gondite,Sitasaongi Formation,42.48,424799,0.29,1.99,322.1,-35.8,396.1,0.746,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C018,ukwa,UKW-B1,UKW-B1-Z1,21.9777,80.48,Manganese Ore,Mansar Formation (Sausar Group),34.9,349000,1.19,1.53,340.6,-33.9,314.3,0.811,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C019,ukwa,UKW-B1,UKW-B1-Z1,21.9777,80.4819,Gondite,Chorbaoli Formation,41.93,419300,1.65,2.04,299.4,-38.0,336.4,0.938,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z1-C020,ukwa,UKW-B1,UKW-B1-Z1,21.9777,80.4838,Gondite,Sitasaongi Formation,38.57,385700,0.58,1.78,322.7,-37.5,332.0,0.769,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C001,ukwa,UKW-B1,UKW-B1-Z2,21.9723,80.4862,Mica Schist,Chorbaoli Formation,8.65,86500,2.46,2.11,336.0,-42.2,336.9,0.181,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C002,ukwa,UKW-B1,UKW-B1-Z2,21.9723,80.4881,Mica Schist,Sitasaongi Formation,22.28,222800,1.86,1.86,356.8,-45.0,221.0,0.174,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C003,ukwa,UKW-B1,UKW-B1-Z2,21.9723,80.49,Mica Schist,Chorbaoli Formation,7.43,74300,2.59,0.99,345.8,-38.4,328.5,0.36,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C004,ukwa,UKW-B1,UKW-B1-Z2,21.9723,80.4919,Quartzite,Chorbaoli Formation,11.37,113699,1.29,0.31,371.6,-36.1,449.9,0.276,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C005,ukwa,UKW-B1,UKW-B1-Z2,21.9723,80.4938,Phyllite,Chorbaoli Formation,22.2,222000,2.61,1.63,368.3,-49.0,289.5,0.37,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C006,ukwa,UKW-B1,UKW-B1-Z2,21.9741,80.4862,Mica Schist,Chorbaoli Formation,12.49,124900,2.22,1.31,334.2,-56.0,290.5,0.338,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C007,ukwa,UKW-B1,UKW-B1-Z2,21.9741,80.4881,Quartzite,Sitasaongi Formation,15.46,154600,1.26,1.84,348.2,-51.1,229.0,0.196,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C008,ukwa,UKW-B1,UKW-B1-Z2,21.9741,80.49,Quartzite,Sitasaongi Formation,5.63,56300,1.85,1.64,307.8,-36.1,258.6,0.097,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C009,ukwa,UKW-B1,UKW-B1-Z2,21.9741,80.4919,Phyllite,Chorbaoli Formation,18.62,186200,0.95,1.73,342.6,-47.8,321.1,0.425,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C010,ukwa,UKW-B1,UKW-B1-Z2,21.9741,80.4938,Phyllite,Mansar Formation (Sausar Group),9.69,96900,1.77,1.4,337.5,-41.8,275.6,0.283,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C011,ukwa,UKW-B1,UKW-B1-Z2,21.9759,80.4862,Quartzite,Sitasaongi Formation,9.07,90700,2.5,2.54,323.4,-30.3,339.1,0.291,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C012,ukwa,UKW-B1,UKW-B1-Z2,21.9759,80.4881,Phyllite,Sitasaongi Formation,9.34,93400,1.22,2.23,327.8,-38.7,176.3,0.305,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C013,ukwa,UKW-B1,UKW-B1-Z2,21.9759,80.49,Quartzite,Chorbaoli Formation,15.76,157600,2.33,1.0,345.3,-46.5,294.1,0.1,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C014,ukwa,UKW-B1,UKW-B1-Z2,21.9759,80.4919,Phyllite,Mansar Formation (Sausar Group),10.18,101800,2.19,0.74,309.5,-44.3,279.3,0.4,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C015,ukwa,UKW-B1,UKW-B1-Z2,21.9759,80.4938,Phyllite,Sitasaongi Formation,12.29,122899,3.05,0.88,289.7,-39.2,254.9,0.271,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C016,ukwa,UKW-B1,UKW-B1-Z2,21.9777,80.4862,Phyllite,Sitasaongi Formation,11.3,113000,2.89,1.43,323.8,-43.6,271.5,0.309,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C017,ukwa,UKW-B1,UKW-B1-Z2,21.9777,80.4881,Phyllite,Sitasaongi Formation,16.88,168800,0.7,2.07,299.0,-45.9,221.4,0.206,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C018,ukwa,UKW-B1,UKW-B1-Z2,21.9777,80.49,Quartzite,Mansar Formation (Sausar Group),10.93,109300,2.38,1.78,350.7,-36.4,273.9,0.311,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C019,ukwa,UKW-B1,UKW-B1-Z2,21.9777,80.4919,Mica Schist,Mansar Formation (Sausar Group),22.53,225300,2.52,2.43,360.5,-36.7,175.1,0.43,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B1-Z2-C020,ukwa,UKW-B1,UKW-B1-Z2,21.9777,80.4938,Quartzite,Mansar Formation (Sausar Group),17.3,173000,2.37,2.19,375.2,-41.6,173.7,0.308,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C001,ukwa,UKW-B2,UKW-B2-Z1,21.9723,80.4562,Gondite,Chorbaoli Formation,32.77,327700,1.42,2.36,338.8,-36.8,531.6,0.96,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C002,ukwa,UKW-B2,UKW-B2-Z1,21.9723,80.4581,Gondite,Chorbaoli Formation,35.51,355100,2.0,1.0,323.1,-43.2,544.2,0.784,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C003,ukwa,UKW-B2,UKW-B2-Z1,21.9723,80.46,Manganese Ore,Chorbaoli Formation,39.44,394400,0.14,1.94,321.4,-32.9,507.1,0.866,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C004,ukwa,UKW-B2,UKW-B2-Z1,21.9723,80.4619,Manganese Ore,Mansar Formation (Sausar Group),42.52,425200,0.31,3.38,340.6,-32.6,360.6,0.719,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C005,ukwa,UKW-B2,UKW-B2-Z1,21.9723,80.4638,Quartzite,Mansar Formation (Sausar Group),41.4,414000,1.46,2.77,309.8,-39.4,431.0,0.798,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C006,ukwa,UKW-B2,UKW-B2-Z1,21.9741,80.4562,Manganese Ore,Sitasaongi Formation,35.2,352000,0.89,2.98,314.3,-23.6,440.5,0.849,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C007,ukwa,UKW-B2,UKW-B2-Z1,21.9741,80.4581,Gondite,Chorbaoli Formation,40.9,409000,1.31,2.82,285.2,-30.0,499.8,0.934,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C008,ukwa,UKW-B2,UKW-B2-Z1,21.9741,80.46,Gondite,Chorbaoli Formation,41.61,416100,0.95,3.28,357.2,-39.1,360.3,0.922,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C009,ukwa,UKW-B2,UKW-B2-Z1,21.9741,80.4619,Gondite,Sitasaongi Formation,42.99,429900,1.1,2.51,291.6,-26.7,514.4,0.786,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C010,ukwa,UKW-B2,UKW-B2-Z1,21.9741,80.4638,Quartzite,Chorbaoli Formation,35.17,351700,0.85,2.76,333.3,-37.8,373.3,0.893,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C011,ukwa,UKW-B2,UKW-B2-Z1,21.9759,80.4562,Quartzite,Sitasaongi Formation,48.5,485000,1.8,3.08,326.1,-49.9,399.7,0.767,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C012,ukwa,UKW-B2,UKW-B2-Z1,21.9759,80.4581,Manganese Ore,Mansar Formation (Sausar Group),42.79,427900,1.07,1.49,341.1,-36.2,431.9,0.707,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C013,ukwa,UKW-B2,UKW-B2-Z1,21.9759,80.46,Quartzite,Sitasaongi Formation,43.23,432299,1.42,2.32,303.2,-37.7,464.6,0.964,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C014,ukwa,UKW-B2,UKW-B2-Z1,21.9759,80.4619,Quartzite,Chorbaoli Formation,31.73,317300,1.12,1.43,285.4,-27.0,460.1,0.763,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C015,ukwa,UKW-B2,UKW-B2-Z1,21.9759,80.4638,Gondite,Sitasaongi Formation,41.39,413900,1.02,3.87,328.3,-50.0,388.2,0.713,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C016,ukwa,UKW-B2,UKW-B2-Z1,21.9777,80.4562,Gondite,Mansar Formation (Sausar Group),38.56,385600,0.48,1.54,345.0,-32.0,359.7,0.87,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C017,ukwa,UKW-B2,UKW-B2-Z1,21.9777,80.4581,Manganese Ore,Chorbaoli Formation,44.2,442000,0.21,2.85,301.6,-29.2,395.6,0.98,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C018,ukwa,UKW-B2,UKW-B2-Z1,21.9777,80.46,Quartzite,Chorbaoli Formation,38.3,383000,1.17,1.64,325.7,-31.8,408.5,0.832,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C019,ukwa,UKW-B2,UKW-B2-Z1,21.9777,80.4619,Gondite,Chorbaoli Formation,36.73,367299,1.38,1.25,326.7,-32.3,480.4,0.816,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z1-C020,ukwa,UKW-B2,UKW-B2-Z1,21.9777,80.4638,Manganese Ore,Chorbaoli Formation,34.89,348900,0.44,1.51,285.1,-28.0,449.4,0.715,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C001,ukwa,UKW-B2,UKW-B2-Z2,21.9723,80.4662,Quartzite,Mansar Formation (Sausar Group),8.7,87000,0.2,2.11,361.7,-42.7,281.7,0.451,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C002,ukwa,UKW-B2,UKW-B2-Z2,21.9723,80.4681,Quartzite,Chorbaoli Formation,10.72,107200,2.39,0.85,321.0,-49.3,146.0,0.405,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C003,ukwa,UKW-B2,UKW-B2-Z2,21.9723,80.47,Mica Schist,Sitasaongi Formation,8.51,85100,1.36,0.9,356.6,-43.0,334.4,0.48,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C004,ukwa,UKW-B2,UKW-B2-Z2,21.9723,80.4719,Quartzite,Chorbaoli Formation,9.13,91300,2.47,1.57,354.4,-62.0,377.7,0.387,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C005,ukwa,UKW-B2,UKW-B2-Z2,21.9723,80.4738,Phyllite,Sitasaongi Formation,14.83,148300,2.21,1.93,341.9,-47.7,65.9,0.57,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C006,ukwa,UKW-B2,UKW-B2-Z2,21.9741,80.4662,Manganese Ore,Sitasaongi Formation,35.01,350100,0.1,1.75,309.4,-35.9,451.8,0.668,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C007,ukwa,UKW-B2,UKW-B2-Z2,21.9741,80.4681,Quartzite,Chorbaoli Formation,40.46,404600,1.45,2.63,378.0,-34.0,356.8,0.654,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C008,ukwa,UKW-B2,UKW-B2-Z2,21.9741,80.47,Quartzite,Chorbaoli Formation,8.96,89600,1.41,1.91,333.6,-41.3,282.8,0.329,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C009,ukwa,UKW-B2,UKW-B2-Z2,21.9741,80.4719,Quartzite,Mansar Formation (Sausar Group),33.91,339099,0.99,1.53,330.5,-31.9,456.4,0.68,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C010,ukwa,UKW-B2,UKW-B2-Z2,21.9741,80.4738,Quartzite,Mansar Formation (Sausar Group),11.39,113900,1.75,1.96,307.2,-51.7,237.3,0.482,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C011,ukwa,UKW-B2,UKW-B2-Z2,21.9759,80.4662,Mica Schist,Sitasaongi Formation,16.96,169600,0.96,1.48,349.0,-39.1,280.1,0.476,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C012,ukwa,UKW-B2,UKW-B2-Z2,21.9759,80.4681,Gondite,Sitasaongi Formation,38.48,384799,1.82,1.96,311.4,-37.0,497.6,0.642,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C013,ukwa,UKW-B2,UKW-B2-Z2,21.9759,80.47,Quartzite,Sitasaongi Formation,16.7,167000,1.63,1.08,301.5,-52.1,217.4,0.551,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C014,ukwa,UKW-B2,UKW-B2-Z2,21.9759,80.4719,Mica Schist,Sitasaongi Formation,24.63,246300,2.75,1.66,315.6,-41.1,388.5,0.335,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C015,ukwa,UKW-B2,UKW-B2-Z2,21.9759,80.4738,Phyllite,Chorbaoli Formation,18.81,188100,1.15,1.28,318.5,-42.6,427.0,0.55,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C016,ukwa,UKW-B2,UKW-B2-Z2,21.9777,80.4662,Mica Schist,Sitasaongi Formation,12.9,129000,1.37,1.02,349.1,-44.8,332.9,0.427,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C017,ukwa,UKW-B2,UKW-B2-Z2,21.9777,80.4681,Phyllite,Chorbaoli Formation,16.62,166200,1.73,1.07,358.3,-45.8,371.2,0.435,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C018,ukwa,UKW-B2,UKW-B2-Z2,21.9777,80.47,Mica Schist,Mansar Formation (Sausar Group),17.4,174000,2.18,0.98,358.0,-42.9,440.2,0.482,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C019,ukwa,UKW-B2,UKW-B2-Z2,21.9777,80.4719,Quartzite,Chorbaoli Formation,37.97,379700,0.49,3.55,376.5,-45.1,441.9,0.613,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B2-Z2-C020,ukwa,UKW-B2,UKW-B2-Z2,21.9777,80.4738,Phyllite,Sitasaongi Formation,3.0,30000,1.73,1.72,357.8,-36.3,325.5,0.328,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C001,ukwa,UKW-B3,UKW-B3-Z1,21.9603,80.4412,Manganese Ore,Chorbaoli Formation,30.01,300100,0.61,0.99,334.1,-36.2,283.8,0.712,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C002,ukwa,UKW-B3,UKW-B3-Z1,21.9603,80.4431,Mica Schist,Chorbaoli Formation,11.03,110300,1.58,1.38,331.8,-53.2,296.8,0.486,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C003,ukwa,UKW-B3,UKW-B3-Z1,21.9603,80.445,Quartzite,Chorbaoli Formation,37.54,375400,0.6,2.99,311.6,-33.7,344.4,0.767,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C004,ukwa,UKW-B3,UKW-B3-Z1,21.9603,80.4469,Gondite,Sitasaongi Formation,34.85,348500,0.5,2.49,316.6,-37.0,278.1,0.742,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C005,ukwa,UKW-B3,UKW-B3-Z1,21.9603,80.4488,Quartzite,Chorbaoli Formation,40.43,404300,0.68,2.86,306.9,-40.4,474.7,0.635,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C006,ukwa,UKW-B3,UKW-B3-Z1,21.9621,80.4412,Quartzite,Sitasaongi Formation,41.12,411200,0.19,2.15,297.0,-33.1,344.2,0.684,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C007,ukwa,UKW-B3,UKW-B3-Z1,21.9621,80.4431,Phyllite,Sitasaongi Formation,6.28,62800,1.08,1.46,297.3,-36.3,313.2,0.509,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C008,ukwa,UKW-B3,UKW-B3-Z1,21.9621,80.445,Quartzite,Chorbaoli Formation,32.14,321400,0.41,1.93,308.3,-39.8,334.4,0.752,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C009,ukwa,UKW-B3,UKW-B3-Z1,21.9621,80.4469,Quartzite,Chorbaoli Formation,14.32,143200,2.84,1.48,319.5,-48.8,326.4,0.523,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C010,ukwa,UKW-B3,UKW-B3-Z1,21.9621,80.4488,Manganese Ore,Sitasaongi Formation,32.31,323100,0.89,0.96,322.6,-36.1,293.9,0.719,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C011,ukwa,UKW-B3,UKW-B3-Z1,21.9639,80.4412,Phyllite,Sitasaongi Formation,19.7,197000,1.79,0.52,378.8,-50.2,321.7,0.545,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C012,ukwa,UKW-B3,UKW-B3-Z1,21.9639,80.4431,Quartzite,Chorbaoli Formation,10.2,102000,0.49,1.54,363.6,-38.3,285.0,0.598,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C013,ukwa,UKW-B3,UKW-B3-Z1,21.9639,80.445,Phyllite,Sitasaongi Formation,15.04,150400,0.56,1.35,308.0,-50.6,311.4,0.551,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C014,ukwa,UKW-B3,UKW-B3-Z1,21.9639,80.4469,Mica Schist,Mansar Formation (Sausar Group),8.4,84000,1.35,2.08,319.7,-48.8,399.7,0.568,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C015,ukwa,UKW-B3,UKW-B3-Z1,21.9639,80.4488,Phyllite,Sitasaongi Formation,15.95,159500,1.71,2.38,318.2,-43.1,251.4,0.575,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C016,ukwa,UKW-B3,UKW-B3-Z1,21.9657,80.4412,Quartzite,Sitasaongi Formation,13.1,131000,1.39,1.0,312.9,-42.6,404.1,0.568,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C017,ukwa,UKW-B3,UKW-B3-Z1,21.9657,80.4431,Mica Schist,Sitasaongi Formation,18.89,188900,2.07,1.54,323.7,-42.9,292.9,0.551,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C018,ukwa,UKW-B3,UKW-B3-Z1,21.9657,80.445,Gondite,Chorbaoli Formation,29.73,297300,1.74,2.88,297.7,-31.0,593.6,0.822,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C019,ukwa,UKW-B3,UKW-B3-Z1,21.9657,80.4469,Mica Schist,Mansar Formation (Sausar Group),15.81,158100,1.61,0.94,321.1,-45.4,137.9,0.573,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z1-C020,ukwa,UKW-B3,UKW-B3-Z1,21.9657,80.4488,Gondite,Chorbaoli Formation,39.62,396200,0.83,2.94,281.8,-31.8,524.9,0.62,1,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C001,ukwa,UKW-B3,UKW-B3-Z2,21.9603,80.4512,Mica Schist,Sitasaongi Formation,11.97,119700,2.84,2.09,325.2,-51.2,328.4,0.436,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C002,ukwa,UKW-B3,UKW-B3-Z2,21.9603,80.4531,Mica Schist,Chorbaoli Formation,17.33,173299,1.08,1.7,346.4,-39.5,366.1,0.298,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C003,ukwa,UKW-B3,UKW-B3-Z2,21.9603,80.455,Mica Schist,Chorbaoli Formation,13.26,132600,0.39,0.68,317.6,-37.7,423.0,0.379,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C004,ukwa,UKW-B3,UKW-B3-Z2,21.9603,80.4569,Quartzite,Mansar Formation (Sausar Group),11.62,116199,2.51,3.0,374.9,-56.9,323.2,0.418,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C005,ukwa,UKW-B3,UKW-B3-Z2,21.9603,80.4588,Mica Schist,Chorbaoli Formation,10.28,102800,2.01,1.22,364.0,-47.2,275.9,0.214,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C006,ukwa,UKW-B3,UKW-B3-Z2,21.9621,80.4512,Mica Schist,Chorbaoli Formation,11.24,112400,1.02,2.09,367.1,-31.9,232.0,0.369,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C007,ukwa,UKW-B3,UKW-B3-Z2,21.9621,80.4531,Quartzite,Sitasaongi Formation,17.61,176100,1.46,1.28,323.4,-40.7,330.0,0.369,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C008,ukwa,UKW-B3,UKW-B3-Z2,21.9621,80.455,Phyllite,Mansar Formation (Sausar Group),8.55,85500,2.31,0.87,340.7,-45.2,257.8,0.476,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C009,ukwa,UKW-B3,UKW-B3-Z2,21.9621,80.4569,Quartzite,Mansar Formation (Sausar Group),15.44,154400,1.56,0.72,347.8,-36.2,342.5,0.365,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C010,ukwa,UKW-B3,UKW-B3-Z2,21.9621,80.4588,Quartzite,Sitasaongi Formation,15.84,158400,2.75,2.2,377.2,-51.5,337.8,0.418,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C011,ukwa,UKW-B3,UKW-B3-Z2,21.9639,80.4512,Mica Schist,Sitasaongi Formation,18.37,183700,1.28,1.9,339.6,-49.7,345.7,0.33,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C012,ukwa,UKW-B3,UKW-B3-Z2,21.9639,80.4531,Phyllite,Chorbaoli Formation,13.16,131600,1.01,2.0,297.2,-44.6,289.9,0.286,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C013,ukwa,UKW-B3,UKW-B3-Z2,21.9639,80.455,Quartzite,Mansar Formation (Sausar Group),25.67,256700,1.73,2.87,359.5,-37.0,314.2,0.372,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C014,ukwa,UKW-B3,UKW-B3-Z2,21.9639,80.4569,Quartzite,Chorbaoli Formation,10.82,108200,1.14,2.19,333.9,-34.1,188.6,0.396,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C015,ukwa,UKW-B3,UKW-B3-Z2,21.9639,80.4588,Quartzite,Mansar Formation (Sausar Group),15.88,158800,1.5,1.79,325.3,-37.0,296.9,0.149,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C016,ukwa,UKW-B3,UKW-B3-Z2,21.9657,80.4512,Mica Schist,Chorbaoli Formation,18.27,182700,0.64,2.26,331.2,-44.2,227.8,0.382,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C017,ukwa,UKW-B3,UKW-B3-Z2,21.9657,80.4531,Mica Schist,Sitasaongi Formation,11.19,111900,1.91,2.06,382.2,-42.9,282.2,0.416,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C018,ukwa,UKW-B3,UKW-B3-Z2,21.9657,80.455,Mica Schist,Mansar Formation (Sausar Group),14.11,141100,2.1,1.06,319.9,-48.7,174.7,0.271,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C019,ukwa,UKW-B3,UKW-B3-Z2,21.9657,80.4569,Phyllite,Mansar Formation (Sausar Group),8.22,82200,2.17,1.63,291.8,-30.9,471.2,0.387,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges
+UKW-B3-Z2-C020,ukwa,UKW-B3,UKW-B3-Z2,21.9657,80.4588,Quartzite,Sitasaongi Formation,8.17,81700,1.32,1.76,289.3,-42.0,442.6,0.414,0,Synthetic - calibrated to MOIL Balaghat/Ukwa formation ranges

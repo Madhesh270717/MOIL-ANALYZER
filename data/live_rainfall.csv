@@ -1,0 +1,3 @@
+Site_ID,Latitude,Longitude,Observation_Date,Annual_Rainfall_mm,Monthly_Rainfall_mm,Rainfall_24h_mm,Rainy_Days_per_Month,Max_24h_Rainfall_mm,Drought_Index,Rainfall_Anomaly_pct
+Balaghat,21.83,80.23,2026-06-30,588.5977177618245,132.44,23.1,10,23.1,,
+Balaghat,21.83,80.23,2026-07-31,588.5977177618245,456.16,69.16,17,69.16,,

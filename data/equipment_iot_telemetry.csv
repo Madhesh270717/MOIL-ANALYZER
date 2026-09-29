@@ -1,0 +1,244 @@
+Reading_ID,Timestamp,Equipment_ID,Equipment_Type,Mine_ID,Block_ID,Zone_ID,Operating_Hours,Downtime_Hours,Availability_Pct,Fuel_or_Battery_Pct,Vibration_mm_s,Temperature_C,Maintenance_Hours,Status,Data_Type
+TEL-LHD-01-001,2026-08-29T09:48:44Z,LHD-01,Load-Haul-Dump Loader,balaghat,BGT-B1,BGT-B1-Z1,22.8,2.7,89.4,70.1,3.92,68.5,2.5,Active,Synthetic - simulated IoT operational telemetry
+TEL-LHD-01-002,2026-08-31T12:50:11Z,LHD-01,Load-Haul-Dump Loader,balaghat,BGT-B1,BGT-B1-Z1,26.5,0.9,96.7,56.7,4.16,55.7,7.3,Active,Synthetic - simulated IoT operational telemetry
+TEL-LHD-01-003,2026-09-02T13:10:24Z,LHD-01,Load-Haul-Dump Loader,balaghat,BGT-B1,BGT-B1-Z1,22.6,2.9,88.6,46.6,3.67,50.7,3.2,Active,Synthetic - simulated IoT operational telemetry
+TEL-LHD-01-004,2026-09-04T16:16:09Z,LHD-01,Load-Haul-Dump Loader,balaghat,BGT-B1,BGT-B1-Z1,15.8,4.2,79.0,38.6,3.1,57.0,7.4,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-01-005,2026-09-06T07:15:43Z,LHD-01,Load-Haul-Dump Loader,balaghat,BGT-B1,BGT-B1-Z1,18.6,3.1,85.7,40.0,3.27,55.4,7.5,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-01-006,2026-09-08T15:43:44Z,LHD-01,Load-Haul-Dump Loader,balaghat,BGT-B1,BGT-B1-Z1,13.3,3.5,79.2,73.1,1.38,44.6,11.3,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-01-007,2026-09-10T11:05:09Z,LHD-01,Load-Haul-Dump Loader,balaghat,BGT-B1,BGT-B1-Z1,29.5,2.2,93.1,48.2,5.37,52.9,12.7,Active,Synthetic - simulated IoT operational telemetry
+TEL-LHD-01-008,2026-09-12T03:52:16Z,LHD-01,Load-Haul-Dump Loader,balaghat,BGT-B1,BGT-B1-Z1,16.9,6.4,72.5,82.5,5.41,67.0,9.9,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-LHD-01-009,2026-09-14T07:25:11Z,LHD-01,Load-Haul-Dump Loader,balaghat,BGT-B1,BGT-B1-Z1,18.2,3.1,85.4,52.8,3.34,65.4,4.3,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-01-010,2026-09-16T06:42:34Z,LHD-01,Load-Haul-Dump Loader,balaghat,BGT-B1,BGT-B1-Z1,35.0,4.2,89.3,85.6,4.52,69.4,4.5,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-01-011,2026-09-18T03:42:16Z,LHD-01,Load-Haul-Dump Loader,balaghat,BGT-B1,BGT-B1-Z1,20.1,0.9,95.7,89.4,4.61,42.6,7.7,Active,Synthetic - simulated IoT operational telemetry
+TEL-LHD-01-012,2026-09-20T11:01:04Z,LHD-01,Load-Haul-Dump Loader,balaghat,BGT-B1,BGT-B1-Z1,30.7,2.9,91.4,47.4,2.26,62.5,3.4,Active,Synthetic - simulated IoT operational telemetry
+TEL-LHD-01-013,2026-09-22T10:22:36Z,LHD-01,Load-Haul-Dump Loader,balaghat,BGT-B1,BGT-B1-Z1,36.5,3.2,91.9,83.1,3.45,68.0,10.4,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-01-014,2026-09-24T08:39:08Z,LHD-01,Load-Haul-Dump Loader,balaghat,BGT-B1,BGT-B1-Z1,31.1,3.3,90.4,43.8,3.71,48.6,12.5,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-02-001,2026-08-29T18:49:07Z,LHD-02,Load-Haul-Dump Loader,balaghat,BGT-B2,BGT-B2-Z1,36.9,4.7,88.7,87.9,1.54,71.4,0.7,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-02-002,2026-08-30T23:55:37Z,LHD-02,Load-Haul-Dump Loader,balaghat,BGT-B2,BGT-B2-Z1,15.6,5.5,73.9,39.3,1.89,49.9,6.4,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-02-003,2026-09-02T00:57:54Z,LHD-02,Load-Haul-Dump Loader,balaghat,BGT-B2,BGT-B2-Z1,28.6,8.0,78.1,76.5,1.27,61.2,5.8,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-LHD-02-004,2026-09-04T00:07:32Z,LHD-02,Load-Haul-Dump Loader,balaghat,BGT-B2,BGT-B2-Z1,30.8,4.8,86.5,53.1,3.51,67.1,6.0,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-02-005,2026-09-06T17:50:48Z,LHD-02,Load-Haul-Dump Loader,balaghat,BGT-B2,BGT-B2-Z1,16.7,7.8,68.2,50.2,4.05,51.1,5.0,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-LHD-02-006,2026-09-08T15:04:01Z,LHD-02,Load-Haul-Dump Loader,balaghat,BGT-B2,BGT-B2-Z1,14.1,8.2,63.2,50.3,4.41,52.8,11.6,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-LHD-02-007,2026-09-10T01:21:08Z,LHD-02,Load-Haul-Dump Loader,balaghat,BGT-B2,BGT-B2-Z1,37.8,5.7,86.9,37.0,3.06,55.6,6.7,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-02-008,2026-09-12T12:01:47Z,LHD-02,Load-Haul-Dump Loader,balaghat,BGT-B2,BGT-B2-Z1,30.3,1.2,96.2,88.3,4.17,53.9,13.7,Active,Synthetic - simulated IoT operational telemetry
+TEL-LHD-02-009,2026-09-14T18:30:07Z,LHD-02,Load-Haul-Dump Loader,balaghat,BGT-B2,BGT-B2-Z1,35.3,7.9,81.7,91.8,4.38,62.4,3.8,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-LHD-02-010,2026-09-16T17:32:53Z,LHD-02,Load-Haul-Dump Loader,balaghat,BGT-B2,BGT-B2-Z1,29.8,2.7,91.7,69.2,4.23,48.5,11.9,Active,Synthetic - simulated IoT operational telemetry
+TEL-LHD-02-011,2026-09-18T00:06:18Z,LHD-02,Load-Haul-Dump Loader,balaghat,BGT-B2,BGT-B2-Z1,17.4,1.7,91.1,86.7,4.98,75.4,4.2,Active,Synthetic - simulated IoT operational telemetry
+TEL-LHD-02-012,2026-09-20T10:37:56Z,LHD-02,Load-Haul-Dump Loader,balaghat,BGT-B2,BGT-B2-Z1,26.7,7.3,78.5,69.1,2.97,68.6,11.1,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-LHD-02-013,2026-09-22T13:02:21Z,LHD-02,Load-Haul-Dump Loader,balaghat,BGT-B2,BGT-B2-Z1,14.0,6.5,68.3,41.2,2.27,44.7,8.5,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-LHD-02-014,2026-09-24T11:35:26Z,LHD-02,Load-Haul-Dump Loader,balaghat,BGT-B2,BGT-B2-Z1,27.5,8.3,76.8,74.9,4.8,58.2,3.2,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-TRK-01-001,2026-08-29T10:25:21Z,TRK-01,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z1,21.8,2.0,91.6,71.9,2.95,69.8,4.1,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-01-002,2026-08-31T04:32:10Z,TRK-01,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z1,13.9,2.6,84.2,58.9,4.81,47.6,5.5,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-01-003,2026-09-02T06:43:47Z,TRK-01,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z1,14.4,8.0,64.3,83.0,1.67,45.1,6.0,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-TRK-01-004,2026-09-04T10:29:54Z,TRK-01,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z1,25.3,1.3,95.1,40.6,3.75,63.5,11.0,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-01-005,2026-09-06T16:23:16Z,TRK-01,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z1,12.3,3.8,76.4,84.1,4.53,62.1,13.9,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-01-006,2026-09-08T04:27:54Z,TRK-01,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z1,25.5,6.0,81.0,45.7,2.44,51.7,2.0,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-01-007,2026-09-10T03:00:53Z,TRK-01,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z1,19.2,2.9,86.9,84.3,2.86,76.0,10.1,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-01-008,2026-09-12T09:19:25Z,TRK-01,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z1,28.0,4.2,87.0,43.5,1.23,56.2,11.8,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-01-009,2026-09-14T07:05:53Z,TRK-01,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z1,34.4,4.0,89.6,62.1,4.99,65.4,8.3,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-01-010,2026-09-16T05:34:22Z,TRK-01,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z1,27.7,6.1,82.0,46.2,3.03,53.5,10.3,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-TRK-01-011,2026-09-18T11:57:22Z,TRK-01,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z1,37.2,6.8,84.5,52.7,4.81,55.1,13.0,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-TRK-01-012,2026-09-20T03:38:26Z,TRK-01,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z1,37.9,1.9,95.2,83.4,1.32,68.2,13.2,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-01-013,2026-09-22T03:49:46Z,TRK-01,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z1,32.7,7.2,82.0,88.4,4.86,66.2,1.9,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-TRK-01-014,2026-09-24T05:37:07Z,TRK-01,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z1,18.6,1.7,91.6,61.7,2.93,58.2,8.4,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-02-001,2026-08-29T10:59:00Z,TRK-02,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z2,25.9,7.9,76.6,61.4,1.37,76.9,9.8,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-TRK-02-002,2026-08-31T15:24:01Z,TRK-02,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z2,27.4,7.8,77.8,50.6,4.26,48.0,8.6,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-TRK-02-003,2026-09-02T10:37:05Z,TRK-02,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z2,28.8,5.7,83.5,95.9,2.73,70.7,1.5,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-02-004,2026-09-04T01:41:51Z,TRK-02,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z2,17.8,6.5,73.3,78.3,2.22,55.5,6.5,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-TRK-02-005,2026-09-06T12:51:06Z,TRK-02,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z2,30.0,1.7,94.6,97.9,3.42,52.6,12.9,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-02-006,2026-09-08T01:27:10Z,TRK-02,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z2,33.6,6.3,84.2,56.6,4.81,60.8,4.9,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-TRK-02-007,2026-09-10T01:40:43Z,TRK-02,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z2,30.8,4.1,88.3,39.2,1.41,67.6,0.3,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-02-008,2026-09-12T06:23:29Z,TRK-02,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z2,14.8,6.9,68.2,81.7,3.57,61.9,4.6,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-TRK-02-009,2026-09-14T07:59:26Z,TRK-02,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z2,24.0,6.9,77.7,46.7,4.22,56.2,10.3,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-TRK-02-010,2026-09-16T16:45:35Z,TRK-02,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z2,23.7,3.9,85.9,35.3,2.19,52.0,9.9,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-02-011,2026-09-18T15:05:16Z,TRK-02,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z2,27.0,6.9,79.6,58.0,2.11,46.1,9.4,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-TRK-02-012,2026-09-20T09:12:09Z,TRK-02,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z2,37.1,3.0,92.5,59.5,3.01,46.1,4.9,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-02-013,2026-09-22T08:35:43Z,TRK-02,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z2,16.5,5.9,73.7,85.4,5.43,63.2,9.4,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-02-014,2026-09-24T05:49:03Z,TRK-02,Low Profile Dump Truck,balaghat,BGT-B1,BGT-B1-Z2,18.2,1.4,92.9,58.5,1.85,56.0,8.3,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-03-001,2026-08-29T10:50:26Z,TRK-03,Low Profile Dump Truck,balaghat,BGT-B2,BGT-B2-Z2,23.0,4.4,83.9,68.9,5.43,75.5,2.4,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-03-002,2026-08-31T03:00:29Z,TRK-03,Low Profile Dump Truck,balaghat,BGT-B2,BGT-B2-Z2,19.5,2.0,90.7,88.0,4.05,73.2,13.3,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-03-003,2026-09-02T09:06:32Z,TRK-03,Low Profile Dump Truck,balaghat,BGT-B2,BGT-B2-Z2,17.1,3.6,82.6,70.4,4.2,56.7,6.9,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-03-004,2026-09-04T13:26:20Z,TRK-03,Low Profile Dump Truck,balaghat,BGT-B2,BGT-B2-Z2,23.5,1.8,92.9,70.6,4.86,49.9,0.5,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-03-005,2026-09-06T04:07:17Z,TRK-03,Low Profile Dump Truck,balaghat,BGT-B2,BGT-B2-Z2,19.5,6.7,74.4,83.7,3.48,60.4,8.0,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-TRK-03-006,2026-09-08T04:56:52Z,TRK-03,Low Profile Dump Truck,balaghat,BGT-B2,BGT-B2-Z2,26.1,8.4,75.7,82.7,4.7,57.9,3.1,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-TRK-03-007,2026-09-10T07:58:02Z,TRK-03,Low Profile Dump Truck,balaghat,BGT-B2,BGT-B2-Z2,31.1,5.7,84.5,50.6,5.22,43.2,3.7,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-03-008,2026-09-12T16:21:31Z,TRK-03,Low Profile Dump Truck,balaghat,BGT-B2,BGT-B2-Z2,14.3,7.4,65.9,86.1,2.17,68.6,9.6,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-TRK-03-009,2026-09-14T16:20:11Z,TRK-03,Low Profile Dump Truck,balaghat,BGT-B2,BGT-B2-Z2,27.9,3.9,87.7,73.8,4.81,71.3,11.3,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-03-010,2026-09-16T10:44:59Z,TRK-03,Low Profile Dump Truck,balaghat,BGT-B2,BGT-B2-Z2,25.8,5.3,83.0,45.6,5.7,52.5,8.0,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-03-011,2026-09-18T18:05:25Z,TRK-03,Low Profile Dump Truck,balaghat,BGT-B2,BGT-B2-Z2,25.4,7.7,76.7,43.5,4.65,56.8,0.8,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-TRK-03-012,2026-09-20T05:07:44Z,TRK-03,Low Profile Dump Truck,balaghat,BGT-B2,BGT-B2-Z2,29.1,6.1,82.7,44.2,2.68,50.9,11.8,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-TRK-03-013,2026-09-22T07:20:39Z,TRK-03,Low Profile Dump Truck,balaghat,BGT-B2,BGT-B2-Z2,15.7,5.6,73.7,74.6,2.93,44.7,11.1,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-03-014,2026-09-24T14:34:01Z,TRK-03,Low Profile Dump Truck,balaghat,BGT-B2,BGT-B2-Z2,22.5,6.5,77.6,90.3,3.29,59.6,8.1,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-DRL-01-001,2026-08-29T16:29:14Z,DRL-01,Hydraulic Jumbo Drill,balaghat,BGT-B2,BGT-B2-Z1,34.0,1.2,96.6,96.2,4.12,67.1,11.9,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-01-002,2026-08-31T15:04:53Z,DRL-01,Hydraulic Jumbo Drill,balaghat,BGT-B2,BGT-B2-Z1,22.3,8.2,73.1,66.2,2.69,52.2,7.7,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-DRL-01-003,2026-09-02T02:18:42Z,DRL-01,Hydraulic Jumbo Drill,balaghat,BGT-B2,BGT-B2-Z1,34.2,6.8,83.4,83.0,1.41,64.5,11.7,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-DRL-01-004,2026-09-04T00:07:01Z,DRL-01,Hydraulic Jumbo Drill,balaghat,BGT-B2,BGT-B2-Z1,36.2,1.8,95.3,63.8,5.76,57.4,13.9,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-01-005,2026-09-06T17:15:54Z,DRL-01,Hydraulic Jumbo Drill,balaghat,BGT-B2,BGT-B2-Z1,34.9,2.9,92.3,90.1,5.23,45.4,5.0,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-01-006,2026-09-08T01:23:12Z,DRL-01,Hydraulic Jumbo Drill,balaghat,BGT-B2,BGT-B2-Z1,29.3,5.7,83.7,38.3,4.08,68.1,10.6,Idle,Synthetic - simulated IoT operational telemetry
+TEL-DRL-01-007,2026-09-10T08:02:44Z,DRL-01,Hydraulic Jumbo Drill,balaghat,BGT-B2,BGT-B2-Z1,14.4,1.3,91.7,48.4,1.56,63.4,7.3,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-01-008,2026-09-12T08:20:58Z,DRL-01,Hydraulic Jumbo Drill,balaghat,BGT-B2,BGT-B2-Z1,12.2,3.2,79.2,42.6,5.16,67.0,6.7,Idle,Synthetic - simulated IoT operational telemetry
+TEL-DRL-01-009,2026-09-14T04:12:00Z,DRL-01,Hydraulic Jumbo Drill,balaghat,BGT-B2,BGT-B2-Z1,14.3,6.9,67.5,58.2,2.58,55.8,11.4,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-DRL-01-010,2026-09-16T16:35:41Z,DRL-01,Hydraulic Jumbo Drill,balaghat,BGT-B2,BGT-B2-Z1,28.7,5.9,82.9,39.3,3.79,64.0,2.3,Idle,Synthetic - simulated IoT operational telemetry
+TEL-DRL-01-011,2026-09-18T06:32:50Z,DRL-01,Hydraulic Jumbo Drill,balaghat,BGT-B2,BGT-B2-Z1,17.5,6.5,72.9,73.8,3.23,49.8,12.6,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-DRL-01-012,2026-09-20T02:29:33Z,DRL-01,Hydraulic Jumbo Drill,balaghat,BGT-B2,BGT-B2-Z1,15.2,6.3,70.7,62.1,4.84,50.9,9.0,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-DRL-01-013,2026-09-22T04:34:09Z,DRL-01,Hydraulic Jumbo Drill,balaghat,BGT-B2,BGT-B2-Z1,27.6,6.3,81.4,94.3,1.32,72.5,12.3,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-DRL-01-014,2026-09-24T03:44:56Z,DRL-01,Hydraulic Jumbo Drill,balaghat,BGT-B2,BGT-B2-Z1,27.8,2.0,93.3,59.7,4.17,70.2,11.1,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-02-001,2026-08-29T04:23:59Z,DRL-02,Hydraulic Jumbo Drill,balaghat,BGT-B3,BGT-B3-Z1,22.0,2.4,90.2,75.2,1.53,74.0,0.2,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-02-002,2026-08-31T06:44:15Z,DRL-02,Hydraulic Jumbo Drill,balaghat,BGT-B3,BGT-B3-Z1,20.2,3.6,84.9,87.9,3.14,61.7,2.4,Idle,Synthetic - simulated IoT operational telemetry
+TEL-DRL-02-003,2026-09-02T08:50:52Z,DRL-02,Hydraulic Jumbo Drill,balaghat,BGT-B3,BGT-B3-Z1,37.7,1.1,97.2,72.0,1.26,49.8,12.9,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-02-004,2026-09-04T18:01:08Z,DRL-02,Hydraulic Jumbo Drill,balaghat,BGT-B3,BGT-B3-Z1,22.3,2.8,88.8,79.9,4.73,57.2,5.6,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-02-005,2026-09-06T12:06:09Z,DRL-02,Hydraulic Jumbo Drill,balaghat,BGT-B3,BGT-B3-Z1,26.0,1.7,93.9,40.3,1.56,75.2,13.6,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-02-006,2026-09-08T02:47:15Z,DRL-02,Hydraulic Jumbo Drill,balaghat,BGT-B3,BGT-B3-Z1,20.5,5.2,79.8,83.1,4.19,65.2,4.3,Idle,Synthetic - simulated IoT operational telemetry
+TEL-DRL-02-007,2026-09-10T08:12:14Z,DRL-02,Hydraulic Jumbo Drill,balaghat,BGT-B3,BGT-B3-Z1,36.8,2.4,93.9,50.4,5.45,46.2,8.6,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-02-008,2026-09-12T00:51:39Z,DRL-02,Hydraulic Jumbo Drill,balaghat,BGT-B3,BGT-B3-Z1,29.3,5.8,83.5,46.1,1.26,46.9,0.2,Idle,Synthetic - simulated IoT operational telemetry
+TEL-DRL-02-009,2026-09-14T09:20:08Z,DRL-02,Hydraulic Jumbo Drill,balaghat,BGT-B3,BGT-B3-Z1,21.0,4.6,82.0,86.8,2.39,55.4,10.5,Idle,Synthetic - simulated IoT operational telemetry
+TEL-DRL-02-010,2026-09-16T16:34:29Z,DRL-02,Hydraulic Jumbo Drill,balaghat,BGT-B3,BGT-B3-Z1,31.1,1.4,95.7,91.7,2.74,57.5,7.3,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-02-011,2026-09-18T04:51:11Z,DRL-02,Hydraulic Jumbo Drill,balaghat,BGT-B3,BGT-B3-Z1,37.4,5.5,87.2,66.3,3.55,44.0,12.0,Idle,Synthetic - simulated IoT operational telemetry
+TEL-DRL-02-012,2026-09-20T03:00:30Z,DRL-02,Hydraulic Jumbo Drill,balaghat,BGT-B3,BGT-B3-Z1,16.1,6.7,70.6,77.5,1.73,68.7,0.0,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-DRL-02-013,2026-09-22T16:17:28Z,DRL-02,Hydraulic Jumbo Drill,balaghat,BGT-B3,BGT-B3-Z1,12.3,0.9,93.2,57.9,5.43,48.4,13.4,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-02-014,2026-09-24T00:29:00Z,DRL-02,Hydraulic Jumbo Drill,balaghat,BGT-B3,BGT-B3-Z1,32.9,6.2,84.1,49.1,2.34,75.0,4.5,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-PMP-01-001,2026-08-29T15:39:48Z,PMP-01,Mine Dewatering Sump Pump,balaghat,BGT-B2,BGT-B2-Z2,26.9,1.5,94.7,77.4,1.44,50.0,7.2,Active,Synthetic - simulated IoT operational telemetry
+TEL-PMP-01-002,2026-08-31T00:41:10Z,PMP-01,Mine Dewatering Sump Pump,balaghat,BGT-B2,BGT-B2-Z2,22.4,7.5,74.9,83.7,2.63,45.1,6.4,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-PMP-01-003,2026-09-02T06:53:15Z,PMP-01,Mine Dewatering Sump Pump,balaghat,BGT-B2,BGT-B2-Z2,19.6,6.8,74.2,50.3,2.89,77.0,14.0,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-PMP-01-004,2026-09-04T14:42:05Z,PMP-01,Mine Dewatering Sump Pump,balaghat,BGT-B2,BGT-B2-Z2,31.0,4.9,86.4,85.1,1.89,75.6,0.3,Idle,Synthetic - simulated IoT operational telemetry
+TEL-PMP-01-005,2026-09-06T10:12:07Z,PMP-01,Mine Dewatering Sump Pump,balaghat,BGT-B2,BGT-B2-Z2,28.5,6.0,82.6,35.6,2.74,69.3,5.3,Idle,Synthetic - simulated IoT operational telemetry
+TEL-PMP-01-006,2026-09-08T13:58:32Z,PMP-01,Mine Dewatering Sump Pump,balaghat,BGT-B2,BGT-B2-Z2,20.0,2.1,90.5,96.9,3.13,76.6,13.6,Active,Synthetic - simulated IoT operational telemetry
+TEL-PMP-01-007,2026-09-10T02:32:16Z,PMP-01,Mine Dewatering Sump Pump,balaghat,BGT-B2,BGT-B2-Z2,19.3,0.9,95.5,49.6,5.09,56.9,12.5,Active,Synthetic - simulated IoT operational telemetry
+TEL-PMP-01-008,2026-09-12T08:36:24Z,PMP-01,Mine Dewatering Sump Pump,balaghat,BGT-B2,BGT-B2-Z2,31.4,5.1,86.0,66.8,4.13,56.2,8.3,Idle,Synthetic - simulated IoT operational telemetry
+TEL-PMP-01-009,2026-09-14T01:00:00Z,PMP-01,Mine Dewatering Sump Pump,balaghat,BGT-B2,BGT-B2-Z2,29.2,1.5,95.1,53.4,5.11,75.3,5.5,Active,Synthetic - simulated IoT operational telemetry
+TEL-PMP-01-010,2026-09-16T15:46:36Z,PMP-01,Mine Dewatering Sump Pump,balaghat,BGT-B2,BGT-B2-Z2,20.5,4.1,83.3,49.7,5.54,46.9,10.8,Idle,Synthetic - simulated IoT operational telemetry
+TEL-PMP-01-011,2026-09-18T01:53:48Z,PMP-01,Mine Dewatering Sump Pump,balaghat,BGT-B2,BGT-B2-Z2,14.7,4.1,78.2,54.8,1.76,54.9,10.8,Idle,Synthetic - simulated IoT operational telemetry
+TEL-PMP-01-012,2026-09-20T08:28:52Z,PMP-01,Mine Dewatering Sump Pump,balaghat,BGT-B2,BGT-B2-Z2,24.0,7.3,76.7,85.9,2.6,67.4,8.4,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-PMP-01-013,2026-09-22T03:55:58Z,PMP-01,Mine Dewatering Sump Pump,balaghat,BGT-B2,BGT-B2-Z2,34.3,1.7,95.3,79.8,5.65,56.3,0.7,Active,Synthetic - simulated IoT operational telemetry
+TEL-PMP-01-014,2026-09-24T05:32:31Z,PMP-01,Mine Dewatering Sump Pump,balaghat,BGT-B2,BGT-B2-Z2,33.3,1.9,94.6,95.0,5.13,62.0,7.7,Active,Synthetic - simulated IoT operational telemetry
+TEL-VEN-01-001,2026-08-29T01:37:23Z,VEN-01,Main Ventilation Booster,balaghat,BGT-B1,BGT-B1-Z2,14.6,6.9,67.9,38.9,4.79,50.0,2.8,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-VEN-01-002,2026-08-31T07:29:44Z,VEN-01,Main Ventilation Booster,balaghat,BGT-B1,BGT-B1-Z2,29.8,8.0,78.8,71.9,5.42,44.7,14.0,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-VEN-01-003,2026-09-02T03:36:04Z,VEN-01,Main Ventilation Booster,balaghat,BGT-B1,BGT-B1-Z2,28.8,7.0,80.4,88.4,4.92,46.4,13.2,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-VEN-01-004,2026-09-04T00:46:36Z,VEN-01,Main Ventilation Booster,balaghat,BGT-B1,BGT-B1-Z2,36.0,4.0,90.0,80.6,3.48,55.8,6.0,Idle,Synthetic - simulated IoT operational telemetry
+TEL-VEN-01-005,2026-09-06T06:36:00Z,VEN-01,Main Ventilation Booster,balaghat,BGT-B1,BGT-B1-Z2,35.6,2.7,93.0,63.1,1.88,64.1,8.6,Active,Synthetic - simulated IoT operational telemetry
+TEL-VEN-01-006,2026-09-08T12:13:55Z,VEN-01,Main Ventilation Booster,balaghat,BGT-B1,BGT-B1-Z2,25.0,7.6,76.7,40.5,2.96,57.1,9.0,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-VEN-01-007,2026-09-10T15:06:38Z,VEN-01,Main Ventilation Booster,balaghat,BGT-B1,BGT-B1-Z2,18.5,8.5,68.5,36.2,2.96,67.7,6.7,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-VEN-01-008,2026-09-12T14:48:28Z,VEN-01,Main Ventilation Booster,balaghat,BGT-B1,BGT-B1-Z2,20.9,5.0,80.7,55.3,2.44,42.9,8.4,Idle,Synthetic - simulated IoT operational telemetry
+TEL-VEN-01-009,2026-09-14T00:22:01Z,VEN-01,Main Ventilation Booster,balaghat,BGT-B1,BGT-B1-Z2,33.1,2.7,92.5,85.9,3.37,54.9,8.2,Active,Synthetic - simulated IoT operational telemetry
+TEL-VEN-01-010,2026-09-16T04:16:24Z,VEN-01,Main Ventilation Booster,balaghat,BGT-B1,BGT-B1-Z2,16.2,2.5,86.6,50.2,3.65,70.5,10.3,Active,Synthetic - simulated IoT operational telemetry
+TEL-VEN-01-011,2026-09-18T14:28:27Z,VEN-01,Main Ventilation Booster,balaghat,BGT-B1,BGT-B1-Z2,36.6,5.1,87.8,96.9,2.99,75.7,13.9,Idle,Synthetic - simulated IoT operational telemetry
+TEL-VEN-01-012,2026-09-20T03:08:22Z,VEN-01,Main Ventilation Booster,balaghat,BGT-B1,BGT-B1-Z2,18.2,3.0,85.8,81.5,2.85,63.3,9.8,Active,Synthetic - simulated IoT operational telemetry
+TEL-VEN-01-013,2026-09-22T06:33:24Z,VEN-01,Main Ventilation Booster,balaghat,BGT-B1,BGT-B1-Z2,26.8,1.6,94.4,94.7,5.05,71.2,13.6,Active,Synthetic - simulated IoT operational telemetry
+TEL-VEN-01-014,2026-09-24T10:12:47Z,VEN-01,Main Ventilation Booster,balaghat,BGT-B1,BGT-B1-Z2,16.6,0.8,95.4,38.5,3.97,42.7,6.7,Active,Synthetic - simulated IoT operational telemetry
+TEL-LHD-11-001,2026-08-29T06:10:25Z,LHD-11,Load-Haul-Dump Loader,ukwa,UKW-B1,UKW-B1-Z1,28.0,7.0,80.0,46.2,4.89,73.3,0.8,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-LHD-11-002,2026-08-31T02:38:25Z,LHD-11,Load-Haul-Dump Loader,ukwa,UKW-B1,UKW-B1-Z1,30.3,1.6,95.0,42.0,3.62,55.1,1.0,Active,Synthetic - simulated IoT operational telemetry
+TEL-LHD-11-003,2026-09-02T13:19:53Z,LHD-11,Load-Haul-Dump Loader,ukwa,UKW-B1,UKW-B1-Z1,29.2,5.2,84.9,56.2,2.68,77.1,10.3,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-11-004,2026-09-04T08:11:32Z,LHD-11,Load-Haul-Dump Loader,ukwa,UKW-B1,UKW-B1-Z1,28.6,4.4,86.7,55.0,4.45,62.2,12.5,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-11-005,2026-09-06T11:35:15Z,LHD-11,Load-Haul-Dump Loader,ukwa,UKW-B1,UKW-B1-Z1,21.3,5.8,78.6,86.3,2.94,68.4,4.1,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-11-006,2026-09-08T03:12:59Z,LHD-11,Load-Haul-Dump Loader,ukwa,UKW-B1,UKW-B1-Z1,12.0,6.1,66.3,88.6,4.75,62.4,2.5,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-LHD-11-007,2026-09-10T05:54:51Z,LHD-11,Load-Haul-Dump Loader,ukwa,UKW-B1,UKW-B1-Z1,33.0,5.4,85.9,75.3,1.68,59.9,4.6,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-11-008,2026-09-12T01:17:53Z,LHD-11,Load-Haul-Dump Loader,ukwa,UKW-B1,UKW-B1-Z1,21.0,3.1,87.1,75.1,5.63,71.6,9.4,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-11-009,2026-09-14T13:48:24Z,LHD-11,Load-Haul-Dump Loader,ukwa,UKW-B1,UKW-B1-Z1,20.7,0.6,97.2,48.2,4.39,54.6,11.0,Active,Synthetic - simulated IoT operational telemetry
+TEL-LHD-11-010,2026-09-16T13:38:10Z,LHD-11,Load-Haul-Dump Loader,ukwa,UKW-B1,UKW-B1-Z1,13.3,4.0,76.9,61.4,1.97,56.9,12.3,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-11-011,2026-09-18T06:32:53Z,LHD-11,Load-Haul-Dump Loader,ukwa,UKW-B1,UKW-B1-Z1,21.8,7.1,75.4,71.4,4.69,50.1,6.3,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-LHD-11-012,2026-09-20T15:08:56Z,LHD-11,Load-Haul-Dump Loader,ukwa,UKW-B1,UKW-B1-Z1,12.9,0.7,94.9,51.5,1.68,54.3,12.4,Active,Synthetic - simulated IoT operational telemetry
+TEL-LHD-11-013,2026-09-22T02:53:37Z,LHD-11,Load-Haul-Dump Loader,ukwa,UKW-B1,UKW-B1-Z1,14.0,8.0,63.6,56.3,5.73,74.2,9.9,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-LHD-11-014,2026-09-24T08:05:09Z,LHD-11,Load-Haul-Dump Loader,ukwa,UKW-B1,UKW-B1-Z1,29.0,5.4,84.3,62.4,1.45,53.9,13.6,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-12-001,2026-08-29T07:39:45Z,LHD-12,Load-Haul-Dump Loader,ukwa,UKW-B2,UKW-B2-Z1,26.4,7.9,77.0,76.6,2.57,45.5,5.5,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-LHD-12-002,2026-08-31T10:21:28Z,LHD-12,Load-Haul-Dump Loader,ukwa,UKW-B2,UKW-B2-Z1,24.8,0.9,96.5,35.2,1.6,71.7,8.8,Active,Synthetic - simulated IoT operational telemetry
+TEL-LHD-12-003,2026-09-02T09:01:36Z,LHD-12,Load-Haul-Dump Loader,ukwa,UKW-B2,UKW-B2-Z1,14.5,2.2,86.8,75.2,5.69,59.0,1.6,Active,Synthetic - simulated IoT operational telemetry
+TEL-LHD-12-004,2026-09-04T14:52:26Z,LHD-12,Load-Haul-Dump Loader,ukwa,UKW-B2,UKW-B2-Z1,24.2,7.7,75.9,75.4,2.98,55.4,5.3,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-LHD-12-005,2026-09-06T03:23:12Z,LHD-12,Load-Haul-Dump Loader,ukwa,UKW-B2,UKW-B2-Z1,13.2,4.0,76.7,51.6,5.05,62.3,2.1,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-12-006,2026-09-08T13:10:36Z,LHD-12,Load-Haul-Dump Loader,ukwa,UKW-B2,UKW-B2-Z1,14.5,5.8,71.4,85.9,3.1,69.2,3.2,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-12-007,2026-09-10T00:58:31Z,LHD-12,Load-Haul-Dump Loader,ukwa,UKW-B2,UKW-B2-Z1,22.1,4.7,82.5,95.8,4.36,75.7,8.0,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-12-008,2026-09-12T04:19:43Z,LHD-12,Load-Haul-Dump Loader,ukwa,UKW-B2,UKW-B2-Z1,19.8,3.7,84.3,88.8,1.36,62.6,7.2,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-12-009,2026-09-14T10:46:37Z,LHD-12,Load-Haul-Dump Loader,ukwa,UKW-B2,UKW-B2-Z1,37.6,1.7,95.7,94.8,3.27,76.2,2.3,Active,Synthetic - simulated IoT operational telemetry
+TEL-LHD-12-010,2026-09-16T03:52:21Z,LHD-12,Load-Haul-Dump Loader,ukwa,UKW-B2,UKW-B2-Z1,17.0,0.8,95.5,39.9,4.34,49.3,11.5,Active,Synthetic - simulated IoT operational telemetry
+TEL-LHD-12-011,2026-09-18T02:38:37Z,LHD-12,Load-Haul-Dump Loader,ukwa,UKW-B2,UKW-B2-Z1,27.5,3.1,89.9,80.8,4.91,45.1,7.8,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-12-012,2026-09-20T10:24:13Z,LHD-12,Load-Haul-Dump Loader,ukwa,UKW-B2,UKW-B2-Z1,34.3,4.7,87.9,92.8,1.26,67.2,8.2,Idle,Synthetic - simulated IoT operational telemetry
+TEL-LHD-12-013,2026-09-22T14:48:46Z,LHD-12,Load-Haul-Dump Loader,ukwa,UKW-B2,UKW-B2-Z1,14.9,1.7,89.8,70.7,3.88,76.7,1.4,Active,Synthetic - simulated IoT operational telemetry
+TEL-LHD-12-014,2026-09-24T01:49:57Z,LHD-12,Load-Haul-Dump Loader,ukwa,UKW-B2,UKW-B2-Z1,32.3,6.8,82.6,90.4,5.24,51.5,9.2,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-TRK-11-001,2026-08-29T10:47:14Z,TRK-11,Low Profile Dump Truck,ukwa,UKW-B1,UKW-B1-Z1,24.3,1.9,92.7,60.4,4.04,66.5,5.6,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-11-002,2026-08-31T07:24:13Z,TRK-11,Low Profile Dump Truck,ukwa,UKW-B1,UKW-B1-Z1,34.9,6.0,85.3,38.1,3.39,51.7,5.2,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-11-003,2026-09-02T06:17:29Z,TRK-11,Low Profile Dump Truck,ukwa,UKW-B1,UKW-B1-Z1,32.6,3.0,91.6,88.1,5.15,66.7,13.6,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-11-004,2026-09-04T04:10:52Z,TRK-11,Low Profile Dump Truck,ukwa,UKW-B1,UKW-B1-Z1,19.8,6.4,75.6,55.2,4.55,63.8,1.3,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-TRK-11-005,2026-09-06T08:17:07Z,TRK-11,Low Profile Dump Truck,ukwa,UKW-B1,UKW-B1-Z1,35.7,3.8,90.4,65.5,3.58,55.5,0.8,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-11-006,2026-09-08T15:00:03Z,TRK-11,Low Profile Dump Truck,ukwa,UKW-B1,UKW-B1-Z1,13.7,6.2,68.8,84.2,3.61,62.5,2.4,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-TRK-11-007,2026-09-10T16:36:28Z,TRK-11,Low Profile Dump Truck,ukwa,UKW-B1,UKW-B1-Z1,17.2,1.0,94.5,37.1,1.43,55.0,2.8,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-11-008,2026-09-12T06:52:36Z,TRK-11,Low Profile Dump Truck,ukwa,UKW-B1,UKW-B1-Z1,24.1,3.7,86.7,93.2,4.33,50.7,6.8,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-11-009,2026-09-14T08:22:10Z,TRK-11,Low Profile Dump Truck,ukwa,UKW-B1,UKW-B1-Z1,37.0,4.3,89.6,69.7,2.78,72.2,3.6,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-11-010,2026-09-16T15:45:25Z,TRK-11,Low Profile Dump Truck,ukwa,UKW-B1,UKW-B1-Z1,14.4,0.7,95.4,38.1,5.13,70.1,3.0,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-11-011,2026-09-18T04:03:15Z,TRK-11,Low Profile Dump Truck,ukwa,UKW-B1,UKW-B1-Z1,17.9,2.2,89.1,76.1,3.56,73.1,13.5,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-11-012,2026-09-20T12:54:09Z,TRK-11,Low Profile Dump Truck,ukwa,UKW-B1,UKW-B1-Z1,24.3,1.6,93.8,45.9,4.88,50.1,8.5,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-11-013,2026-09-22T17:54:36Z,TRK-11,Low Profile Dump Truck,ukwa,UKW-B1,UKW-B1-Z1,30.5,6.2,83.1,91.4,5.12,58.5,3.1,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-TRK-11-014,2026-09-24T05:36:20Z,TRK-11,Low Profile Dump Truck,ukwa,UKW-B1,UKW-B1-Z1,25.5,5.5,82.3,71.8,1.23,78.0,13.5,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-12-001,2026-08-29T15:55:13Z,TRK-12,Low Profile Dump Truck,ukwa,UKW-B2,UKW-B2-Z2,26.6,5.3,83.4,52.8,4.35,59.3,4.7,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-12-002,2026-08-31T05:06:46Z,TRK-12,Low Profile Dump Truck,ukwa,UKW-B2,UKW-B2-Z2,20.5,2.7,88.4,76.3,5.58,65.5,2.6,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-12-003,2026-09-02T09:44:11Z,TRK-12,Low Profile Dump Truck,ukwa,UKW-B2,UKW-B2-Z2,18.2,1.0,94.8,89.0,4.93,56.5,4.5,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-12-004,2026-09-04T02:29:27Z,TRK-12,Low Profile Dump Truck,ukwa,UKW-B2,UKW-B2-Z2,12.7,4.5,73.8,53.6,5.37,56.6,10.3,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-12-005,2026-09-06T10:59:54Z,TRK-12,Low Profile Dump Truck,ukwa,UKW-B2,UKW-B2-Z2,37.9,7.0,84.4,79.9,4.36,65.0,6.7,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-TRK-12-006,2026-09-08T17:51:54Z,TRK-12,Low Profile Dump Truck,ukwa,UKW-B2,UKW-B2-Z2,21.3,2.9,88.0,45.7,4.23,62.1,4.1,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-12-007,2026-09-10T08:50:36Z,TRK-12,Low Profile Dump Truck,ukwa,UKW-B2,UKW-B2-Z2,31.3,6.3,83.2,92.5,5.56,74.4,9.2,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-TRK-12-008,2026-09-12T04:04:18Z,TRK-12,Low Profile Dump Truck,ukwa,UKW-B2,UKW-B2-Z2,17.8,7.5,70.4,90.9,2.91,63.1,6.5,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-TRK-12-009,2026-09-14T02:03:56Z,TRK-12,Low Profile Dump Truck,ukwa,UKW-B2,UKW-B2-Z2,13.4,5.6,70.5,71.6,4.06,59.0,2.7,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-12-010,2026-09-16T02:06:17Z,TRK-12,Low Profile Dump Truck,ukwa,UKW-B2,UKW-B2-Z2,29.7,4.7,86.3,61.0,5.21,47.4,13.9,Idle,Synthetic - simulated IoT operational telemetry
+TEL-TRK-12-011,2026-09-18T06:23:01Z,TRK-12,Low Profile Dump Truck,ukwa,UKW-B2,UKW-B2-Z2,37.7,7.6,83.2,44.0,5.17,48.5,1.1,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-TRK-12-012,2026-09-20T06:11:27Z,TRK-12,Low Profile Dump Truck,ukwa,UKW-B2,UKW-B2-Z2,37.7,3.0,92.6,38.7,3.28,49.5,10.8,Active,Synthetic - simulated IoT operational telemetry
+TEL-TRK-12-013,2026-09-22T10:52:08Z,TRK-12,Low Profile Dump Truck,ukwa,UKW-B2,UKW-B2-Z2,16.1,6.8,70.3,43.2,3.2,57.5,6.0,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-TRK-12-014,2026-09-24T08:58:13Z,TRK-12,Low Profile Dump Truck,ukwa,UKW-B2,UKW-B2-Z2,12.1,4.8,71.6,81.0,5.57,74.1,10.6,Idle,Synthetic - simulated IoT operational telemetry
+TEL-DRL-11-001,2026-08-29T10:00:00Z,DRL-11,Hydraulic Jumbo Drill,ukwa,UKW-B2,UKW-B2-Z1,12.5,0.5,96.2,81.2,2.24,73.6,4.4,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-11-002,2026-08-31T01:46:35Z,DRL-11,Hydraulic Jumbo Drill,ukwa,UKW-B2,UKW-B2-Z1,25.1,2.9,89.6,39.1,1.41,76.1,6.4,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-11-003,2026-09-02T09:47:38Z,DRL-11,Hydraulic Jumbo Drill,ukwa,UKW-B2,UKW-B2-Z1,25.6,4.0,86.5,78.3,1.82,77.9,6.9,Idle,Synthetic - simulated IoT operational telemetry
+TEL-DRL-11-004,2026-09-04T14:12:23Z,DRL-11,Hydraulic Jumbo Drill,ukwa,UKW-B2,UKW-B2-Z1,16.3,7.8,67.6,36.2,2.23,77.5,3.0,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-DRL-11-005,2026-09-06T00:13:30Z,DRL-11,Hydraulic Jumbo Drill,ukwa,UKW-B2,UKW-B2-Z1,25.1,1.5,94.4,79.8,4.84,55.5,9.0,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-11-006,2026-09-08T14:36:44Z,DRL-11,Hydraulic Jumbo Drill,ukwa,UKW-B2,UKW-B2-Z1,28.2,5.3,84.2,38.0,1.7,72.1,0.7,Idle,Synthetic - simulated IoT operational telemetry
+TEL-DRL-11-007,2026-09-10T02:01:39Z,DRL-11,Hydraulic Jumbo Drill,ukwa,UKW-B2,UKW-B2-Z1,23.6,1.5,94.0,50.9,4.43,49.4,9.6,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-11-008,2026-09-11T23:58:59Z,DRL-11,Hydraulic Jumbo Drill,ukwa,UKW-B2,UKW-B2-Z1,22.9,1.3,94.6,67.8,4.06,67.2,5.9,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-11-009,2026-09-14T17:03:28Z,DRL-11,Hydraulic Jumbo Drill,ukwa,UKW-B2,UKW-B2-Z1,25.3,5.4,82.4,52.8,4.81,59.9,8.5,Idle,Synthetic - simulated IoT operational telemetry
+TEL-DRL-11-010,2026-09-16T14:44:28Z,DRL-11,Hydraulic Jumbo Drill,ukwa,UKW-B2,UKW-B2-Z1,33.6,8.3,80.2,60.8,1.94,61.7,12.7,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-DRL-11-011,2026-09-18T13:01:04Z,DRL-11,Hydraulic Jumbo Drill,ukwa,UKW-B2,UKW-B2-Z1,24.5,2.4,91.1,35.8,1.61,46.0,8.0,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-11-012,2026-09-20T09:17:28Z,DRL-11,Hydraulic Jumbo Drill,ukwa,UKW-B2,UKW-B2-Z1,36.7,6.7,84.6,80.6,5.36,65.2,6.4,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-DRL-11-013,2026-09-22T18:34:06Z,DRL-11,Hydraulic Jumbo Drill,ukwa,UKW-B2,UKW-B2-Z1,18.9,0.9,95.5,86.2,5.22,72.7,5.0,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-11-014,2026-09-24T12:47:54Z,DRL-11,Hydraulic Jumbo Drill,ukwa,UKW-B2,UKW-B2-Z1,23.1,1.4,94.3,88.6,5.3,42.3,1.9,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-12-001,2026-08-29T12:13:50Z,DRL-12,Hydraulic Jumbo Drill,ukwa,UKW-B3,UKW-B3-Z1,20.5,7.7,72.7,51.9,4.57,55.4,4.8,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-DRL-12-002,2026-08-31T01:59:24Z,DRL-12,Hydraulic Jumbo Drill,ukwa,UKW-B3,UKW-B3-Z1,22.4,4.2,84.2,87.6,4.37,59.2,5.9,Idle,Synthetic - simulated IoT operational telemetry
+TEL-DRL-12-003,2026-09-02T16:49:04Z,DRL-12,Hydraulic Jumbo Drill,ukwa,UKW-B3,UKW-B3-Z1,16.3,1.6,91.1,80.8,5.72,72.4,1.5,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-12-004,2026-09-04T17:17:59Z,DRL-12,Hydraulic Jumbo Drill,ukwa,UKW-B3,UKW-B3-Z1,24.5,5.1,82.8,62.6,4.01,70.0,8.6,Idle,Synthetic - simulated IoT operational telemetry
+TEL-DRL-12-005,2026-09-06T16:21:57Z,DRL-12,Hydraulic Jumbo Drill,ukwa,UKW-B3,UKW-B3-Z1,34.9,6.3,84.7,65.4,3.45,74.0,6.2,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-DRL-12-006,2026-09-08T01:01:13Z,DRL-12,Hydraulic Jumbo Drill,ukwa,UKW-B3,UKW-B3-Z1,29.0,0.6,98.0,89.7,3.61,68.8,10.1,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-12-007,2026-09-10T04:06:17Z,DRL-12,Hydraulic Jumbo Drill,ukwa,UKW-B3,UKW-B3-Z1,36.8,7.5,83.1,78.4,4.04,57.6,10.2,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-DRL-12-008,2026-09-12T09:03:26Z,DRL-12,Hydraulic Jumbo Drill,ukwa,UKW-B3,UKW-B3-Z1,29.3,5.6,84.0,44.4,5.0,74.1,8.6,Idle,Synthetic - simulated IoT operational telemetry
+TEL-DRL-12-009,2026-09-14T00:01:40Z,DRL-12,Hydraulic Jumbo Drill,ukwa,UKW-B3,UKW-B3-Z1,36.3,4.5,89.0,64.6,3.48,48.0,10.5,Idle,Synthetic - simulated IoT operational telemetry
+TEL-DRL-12-010,2026-09-16T05:57:38Z,DRL-12,Hydraulic Jumbo Drill,ukwa,UKW-B3,UKW-B3-Z1,20.6,2.7,88.4,66.9,3.73,55.6,11.4,Active,Synthetic - simulated IoT operational telemetry
+TEL-DRL-12-011,2026-09-18T01:19:04Z,DRL-12,Hydraulic Jumbo Drill,ukwa,UKW-B3,UKW-B3-Z1,23.5,5.1,82.2,40.5,3.49,53.4,13.7,Idle,Synthetic - simulated IoT operational telemetry
+TEL-DRL-12-012,2026-09-20T14:06:46Z,DRL-12,Hydraulic Jumbo Drill,ukwa,UKW-B3,UKW-B3-Z1,12.5,3.7,77.2,37.3,3.73,71.7,11.1,Idle,Synthetic - simulated IoT operational telemetry
+TEL-DRL-12-013,2026-09-22T18:17:50Z,DRL-12,Hydraulic Jumbo Drill,ukwa,UKW-B3,UKW-B3-Z1,28.6,7.6,79.0,76.2,3.3,54.3,11.6,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-DRL-12-014,2026-09-24T15:28:58Z,DRL-12,Hydraulic Jumbo Drill,ukwa,UKW-B3,UKW-B3-Z1,34.0,3.2,91.4,83.3,3.96,67.8,5.1,Idle,Synthetic - simulated IoT operational telemetry
+TEL-PMP-11-001,2026-08-29T08:29:34Z,PMP-11,Mine Dewatering Sump Pump,ukwa,UKW-B1,UKW-B1-Z2,14.5,5.8,71.4,35.1,2.83,64.8,11.2,Idle,Synthetic - simulated IoT operational telemetry
+TEL-PMP-11-002,2026-08-31T10:19:12Z,PMP-11,Mine Dewatering Sump Pump,ukwa,UKW-B1,UKW-B1-Z2,21.7,1.4,93.9,91.5,3.47,71.6,10.4,Active,Synthetic - simulated IoT operational telemetry
+TEL-PMP-11-003,2026-09-02T07:39:40Z,PMP-11,Mine Dewatering Sump Pump,ukwa,UKW-B1,UKW-B1-Z2,18.6,2.1,89.9,42.6,5.12,49.8,11.5,Active,Synthetic - simulated IoT operational telemetry
+TEL-PMP-11-004,2026-09-04T03:27:48Z,PMP-11,Mine Dewatering Sump Pump,ukwa,UKW-B1,UKW-B1-Z2,20.8,6.6,75.9,74.9,4.29,46.4,12.5,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-PMP-11-005,2026-09-06T08:35:10Z,PMP-11,Mine Dewatering Sump Pump,ukwa,UKW-B1,UKW-B1-Z2,27.3,4.5,85.8,95.7,1.22,68.5,7.7,Idle,Synthetic - simulated IoT operational telemetry
+TEL-PMP-11-006,2026-09-08T08:06:51Z,PMP-11,Mine Dewatering Sump Pump,ukwa,UKW-B1,UKW-B1-Z2,27.2,7.9,77.5,92.3,4.38,48.3,11.4,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-PMP-11-007,2026-09-10T01:47:33Z,PMP-11,Mine Dewatering Sump Pump,ukwa,UKW-B1,UKW-B1-Z2,29.1,5.3,84.6,55.3,5.25,57.1,8.5,Idle,Synthetic - simulated IoT operational telemetry
+TEL-PMP-11-008,2026-09-12T13:06:02Z,PMP-11,Mine Dewatering Sump Pump,ukwa,UKW-B1,UKW-B1-Z2,18.5,3.7,83.3,56.6,2.55,71.0,1.9,Idle,Synthetic - simulated IoT operational telemetry
+TEL-PMP-11-009,2026-09-14T11:22:22Z,PMP-11,Mine Dewatering Sump Pump,ukwa,UKW-B1,UKW-B1-Z2,35.0,4.6,88.4,88.1,3.72,53.3,10.3,Idle,Synthetic - simulated IoT operational telemetry
+TEL-PMP-11-010,2026-09-16T10:25:59Z,PMP-11,Mine Dewatering Sump Pump,ukwa,UKW-B1,UKW-B1-Z2,17.7,2.2,88.9,80.0,4.36,75.2,1.9,Active,Synthetic - simulated IoT operational telemetry
+TEL-PMP-11-011,2026-09-18T13:26:38Z,PMP-11,Mine Dewatering Sump Pump,ukwa,UKW-B1,UKW-B1-Z2,37.4,1.9,95.2,69.2,4.13,67.6,10.7,Active,Synthetic - simulated IoT operational telemetry
+TEL-PMP-11-012,2026-09-20T10:36:00Z,PMP-11,Mine Dewatering Sump Pump,ukwa,UKW-B1,UKW-B1-Z2,27.2,8.0,77.3,77.5,5.31,61.2,12.3,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-PMP-11-013,2026-09-22T07:54:51Z,PMP-11,Mine Dewatering Sump Pump,ukwa,UKW-B1,UKW-B1-Z2,12.3,1.4,89.8,59.0,1.44,44.0,3.7,Active,Synthetic - simulated IoT operational telemetry
+TEL-PMP-11-014,2026-09-24T14:53:11Z,PMP-11,Mine Dewatering Sump Pump,ukwa,UKW-B1,UKW-B1-Z2,37.6,6.0,86.2,44.2,1.49,70.2,2.9,Idle,Synthetic - simulated IoT operational telemetry
+TEL-VEN-11-001,2026-08-29T10:11:41Z,VEN-11,Main Ventilation Booster,ukwa,UKW-B3,UKW-B3-Z2,21.3,4.1,83.9,73.8,4.31,62.2,3.1,Idle,Synthetic - simulated IoT operational telemetry
+TEL-VEN-11-002,2026-08-31T12:13:44Z,VEN-11,Main Ventilation Booster,ukwa,UKW-B3,UKW-B3-Z2,22.1,4.6,82.8,85.2,4.4,66.9,0.7,Idle,Synthetic - simulated IoT operational telemetry
+TEL-VEN-11-003,2026-09-02T07:07:50Z,VEN-11,Main Ventilation Booster,ukwa,UKW-B3,UKW-B3-Z2,22.8,6.8,77.0,95.8,1.45,68.8,2.8,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-VEN-11-004,2026-09-04T16:29:10Z,VEN-11,Main Ventilation Booster,ukwa,UKW-B3,UKW-B3-Z2,34.4,4.0,89.6,49.2,4.12,67.5,5.1,Idle,Synthetic - simulated IoT operational telemetry
+TEL-VEN-11-005,2026-09-06T11:06:05Z,VEN-11,Main Ventilation Booster,ukwa,UKW-B3,UKW-B3-Z2,31.2,2.1,93.7,80.7,2.09,58.2,13.8,Active,Synthetic - simulated IoT operational telemetry
+TEL-VEN-11-006,2026-09-08T01:14:03Z,VEN-11,Main Ventilation Booster,ukwa,UKW-B3,UKW-B3-Z2,37.0,6.4,85.3,37.6,2.48,51.5,2.3,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-VEN-11-007,2026-09-10T16:02:52Z,VEN-11,Main Ventilation Booster,ukwa,UKW-B3,UKW-B3-Z2,12.1,4.2,74.2,94.1,1.38,75.4,8.4,Idle,Synthetic - simulated IoT operational telemetry
+TEL-VEN-11-008,2026-09-12T14:39:31Z,VEN-11,Main Ventilation Booster,ukwa,UKW-B3,UKW-B3-Z2,28.3,7.2,79.7,84.8,3.73,44.6,9.9,Breakdown,Synthetic - simulated IoT operational telemetry
+TEL-VEN-11-009,2026-09-14T09:53:31Z,VEN-11,Main Ventilation Booster,ukwa,UKW-B3,UKW-B3-Z2,36.9,4.7,88.7,84.5,1.93,61.6,5.6,Idle,Synthetic - simulated IoT operational telemetry
+TEL-VEN-11-010,2026-09-16T06:30:46Z,VEN-11,Main Ventilation Booster,ukwa,UKW-B3,UKW-B3-Z2,35.0,5.8,85.8,55.9,2.55,76.2,8.7,Idle,Synthetic - simulated IoT operational telemetry
+TEL-VEN-11-011,2026-09-18T08:55:18Z,VEN-11,Main Ventilation Booster,ukwa,UKW-B3,UKW-B3-Z2,26.6,6.5,80.4,42.2,2.79,50.7,9.0,Maintenance,Synthetic - simulated IoT operational telemetry
+TEL-VEN-11-012,2026-09-20T17:26:30Z,VEN-11,Main Ventilation Booster,ukwa,UKW-B3,UKW-B3-Z2,18.3,0.8,95.8,90.8,2.95,70.7,1.6,Active,Synthetic - simulated IoT operational telemetry
+TEL-VEN-11-013,2026-09-22T04:43:51Z,VEN-11,Main Ventilation Booster,ukwa,UKW-B3,UKW-B3-Z2,30.8,0.7,97.8,67.6,4.74,60.5,7.1,Active,Synthetic - simulated IoT operational telemetry
+TEL-VEN-11-014,2026-09-24T09:09:03Z,VEN-11,Main Ventilation Booster,ukwa,UKW-B3,UKW-B3-Z2,19.7,5.7,77.6,55.2,1.58,45.5,13.6,Idle,Synthetic - simulated IoT operational telemetry
+TEL-EXEC-1790383072,2026-09-26 00:37:52,LHD-02,LHD Loader,balaghat,BLK-01,ZONE-02,8.0,0.0,98.0,95.0,2.2,68.0,0.0,Active,Field Execution - Closed Loop Actual Update
+TEL-EXEC-1790383200,2026-09-26 00:40:00,LHD-02,LHD Loader,balaghat,BLK-01,ZONE-02,8.0,0.0,98.0,95.0,2.2,68.0,0.0,Active,Field Execution - Closed Loop Actual Update
+TEL-EXEC-1790383243,2026-09-26 00:40:43,LHD-02,LHD Loader,balaghat,BLK-01,ZONE-02,8.0,0.0,98.0,95.0,2.2,68.0,0.0,Active,Field Execution - Closed Loop Actual Update
+TEL-EXEC-1790383410,2026-09-26 00:43:30,LHD-02,LHD Loader,balaghat,BLK-01,ZONE-02,8.0,0.0,98.0,95.0,2.2,68.0,0.0,Active,Field Execution - Closed Loop Actual Update
+TEL-EXEC-1790416056,2026-09-26 09:47:36,LHD-02,LHD Loader,balaghat,BLK-01,ZONE-02,8.0,0.0,98.0,95.0,2.2,68.0,0.0,Active,Field Execution - Closed Loop Actual Update

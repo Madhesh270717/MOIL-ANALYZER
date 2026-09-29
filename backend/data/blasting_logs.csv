@@ -1,0 +1,34 @@
+Blast_ID,Mine_ID,Block_ID,Zone_ID,Scheduled_Time,Actual_Time,Drill_Delay_hours,Charge_Delay_hours,Clearance_Delay_hours,Fire_Delay_hours,Reentry_Delay_hours,Total_Delay_hours,Stemming_Quality,Status,Data_Type
+BLAST-BAL-001,balaghat,BGT-B1,BGT-B1-Z1,2026-09-06T13:20:24Z,2026-09-06T16:44:24Z,2.0,0.0,0.6,0.0,0.8,3.4,Moderate,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-BAL-002,balaghat,BGT-B1,BGT-B1-Z1,2026-09-11T11:16:09Z,2026-09-11T14:46:09Z,0.0,1.5,0.0,0.0,2.0,3.5,Moderate,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-BAL-003,balaghat,BGT-B1,BGT-B1-Z1,2026-09-16T13:57:56Z,2026-09-16T16:27:56Z,0.0,0.3,0.0,1.0,1.2,2.5,Optimal,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-BAL-004,balaghat,BGT-B1,BGT-B1-Z1,2026-09-21T03:27:53Z,2026-09-21T04:45:53Z,0.0,0.3,0.2,0.0,0.8,1.3,Acceptable,On Schedule,Synthetic - simulated blast scheduling logs
+BLAST-BAL-005,balaghat,BGT-B1,BGT-B1-Z2,2026-09-06T08:04:27Z,2026-09-06T11:52:27Z,1.2,1.5,0.2,0.4,0.5,3.8,Acceptable,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-BAL-006,balaghat,BGT-B1,BGT-B1-Z2,2026-09-11T11:53:59Z,2026-09-11T14:59:59Z,2.0,0.0,0.6,0.0,0.5,3.1,Moderate,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-BAL-007,balaghat,BGT-B1,BGT-B1-Z2,2026-09-16T14:25:09Z,2026-09-16T16:01:09Z,0.5,0.0,0.2,0.4,0.5,1.6,Acceptable,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-BAL-008,balaghat,BGT-B1,BGT-B1-Z2,2026-09-21T13:13:27Z,2026-09-21T18:07:27Z,1.2,1.5,0.2,0.0,2.0,4.9,Optimal,Critical Delay,Synthetic - simulated blast scheduling logs
+BLAST-BAL-009,balaghat,BGT-B2,BGT-B2-Z1,2026-09-06T09:53:10Z,2026-09-06T13:11:10Z,0.0,1.5,0.6,0.4,0.8,3.3,Acceptable,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-BAL-010,balaghat,BGT-B2,BGT-B2-Z1,2026-09-11T11:57:26Z,2026-09-11T13:33:26Z,0.5,0.0,0.6,0.0,0.5,1.6,Optimal,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-BAL-011,balaghat,BGT-B2,BGT-B2-Z1,2026-09-16T02:16:36Z,2026-09-16T07:34:36Z,2.0,1.5,0.6,0.0,1.2,5.3,Optimal,Critical Delay,Synthetic - simulated blast scheduling logs
+BLAST-BAL-012,balaghat,BGT-B2,BGT-B2-Z1,2026-09-21T12:58:47Z,2026-09-21T14:46:47Z,0.5,0.3,0.2,0.0,0.8,1.8,Optimal,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-BAL-013,balaghat,BGT-B3,BGT-B3-Z1,2026-09-06T05:23:01Z,2026-09-06T06:41:01Z,0.5,0.3,0.0,0.0,0.5,1.3,Moderate,On Schedule,Synthetic - simulated blast scheduling logs
+BLAST-BAL-014,balaghat,BGT-B3,BGT-B3-Z1,2026-09-11T08:50:47Z,2026-09-11T12:14:47Z,2.0,0.0,0.2,0.0,1.2,3.4,Optimal,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-BAL-015,balaghat,BGT-B3,BGT-B3-Z1,2026-09-16T05:02:50Z,2026-09-16T09:56:50Z,2.0,1.5,0.2,0.4,0.8,4.9,Moderate,Critical Delay,Synthetic - simulated blast scheduling logs
+BLAST-BAL-016,balaghat,BGT-B3,BGT-B3-Z1,2026-09-21T11:38:35Z,2026-09-21T13:50:35Z,0.0,0.8,0.6,0.0,0.8,2.2,Acceptable,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-UKW-017,ukwa,UKW-B1,UKW-B1-Z1,2026-09-06T09:12:02Z,2026-09-06T12:18:02Z,0.5,0.8,0.6,0.0,1.2,3.1,Acceptable,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-UKW-018,ukwa,UKW-B1,UKW-B1-Z1,2026-09-11T16:00:32Z,2026-09-11T17:00:32Z,0.0,0.0,0.2,0.0,0.8,1.0,Moderate,On Schedule,Synthetic - simulated blast scheduling logs
+BLAST-UKW-019,ukwa,UKW-B1,UKW-B1-Z1,2026-09-16T12:51:28Z,2026-09-16T16:15:28Z,1.2,0.8,0.2,0.0,1.2,3.4,Acceptable,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-UKW-020,ukwa,UKW-B1,UKW-B1-Z1,2026-09-21T08:52:10Z,2026-09-21T11:10:10Z,0.5,0.8,0.2,0.0,0.8,2.3,Moderate,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-UKW-021,ukwa,UKW-B2,UKW-B2-Z1,2026-09-06T10:56:23Z,2026-09-06T13:32:23Z,0.5,0.3,0.6,0.0,1.2,2.6,Moderate,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-UKW-022,ukwa,UKW-B2,UKW-B2-Z1,2026-09-11T14:58:03Z,2026-09-11T16:58:03Z,0.0,0.0,0.0,0.0,2.0,2.0,Moderate,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-UKW-023,ukwa,UKW-B2,UKW-B2-Z1,2026-09-16T05:16:05Z,2026-09-16T08:28:05Z,0.0,0.8,0.6,1.0,0.8,3.2,Acceptable,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-UKW-024,ukwa,UKW-B2,UKW-B2-Z1,2026-09-21T07:51:23Z,2026-09-21T12:09:23Z,2.0,0.8,0.0,1.0,0.5,4.3,Acceptable,Critical Delay,Synthetic - simulated blast scheduling logs
+BLAST-UKW-025,ukwa,UKW-B3,UKW-B3-Z1,2026-09-06T07:26:38Z,2026-09-06T09:08:38Z,0.0,0.3,0.6,0.0,0.8,1.7,Acceptable,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-UKW-026,ukwa,UKW-B3,UKW-B3-Z1,2026-09-11T04:29:50Z,2026-09-11T09:35:50Z,2.0,0.3,0.6,1.0,1.2,5.1,Optimal,Critical Delay,Synthetic - simulated blast scheduling logs
+BLAST-UKW-027,ukwa,UKW-B3,UKW-B3-Z1,2026-09-16T05:21:19Z,2026-09-16T08:27:19Z,1.2,0.3,0.0,0.4,1.2,3.1,Optimal,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-UKW-028,ukwa,UKW-B3,UKW-B3-Z1,2026-09-21T02:49:15Z,2026-09-21T06:49:15Z,0.0,0.8,0.2,1.0,2.0,4.0,Optimal,Delayed,Synthetic - simulated blast scheduling logs
+BLAST-EXEC-1790383073,ukwa,BLK-01,ZONE-03,2026-09-26T00:37:53.694000+00:00,2026-09-26 00:37:53,0.0,0.0,0.0,0.0,0.0,0.0,Good,Executed,Field Execution - Closed Loop Actual Update
+BLAST-EXEC-1790383200,ukwa,BLK-01,ZONE-03,2026-09-26T00:40:00.919421+00:00,2026-09-26 00:40:00,0.0,0.0,0.0,0.0,0.0,0.0,Good,Executed,Field Execution - Closed Loop Actual Update
+BLAST-EXEC-1790383243,ukwa,BLK-01,ZONE-03,2026-09-26T00:40:43.466930+00:00,2026-09-26 00:40:43,0.0,0.0,0.0,0.0,0.0,0.0,Good,Executed,Field Execution - Closed Loop Actual Update
+BLAST-EXEC-1790383410,ukwa,BLK-01,ZONE-03,2026-09-26T00:43:30.824742+00:00,2026-09-26 00:43:30,0.0,0.0,0.0,0.0,0.0,0.0,Good,Executed,Field Execution - Closed Loop Actual Update
+BLAST-EXEC-1790416056,ukwa,BLK-01,ZONE-03,2026-09-26T09:47:36.329619+00:00,2026-09-26 09:47:36,0.0,0.0,0.0,0.0,0.0,0.0,Good,Executed,Field Execution - Closed Loop Actual Update

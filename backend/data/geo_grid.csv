@@ -1,0 +1,241 @@
+Cell_ID,Mine_ID,Mine_Name,Block_ID,Block_Name,Zone_ID,Zone_Name,Latitude,Longitude,South,West,North,East,Cell_Size_m,Ore_Prob_Base
+BGT-B1-Z1-C001,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8323,80.2212,21.8314,80.22025,21.8332,80.22215,200,0.78
+BGT-B1-Z1-C002,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8323,80.2231,21.8314,80.22215,21.8332,80.22405,200,0.78
+BGT-B1-Z1-C003,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8323,80.225,21.8314,80.22405,21.8332,80.22595,200,0.78
+BGT-B1-Z1-C004,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8323,80.2269,21.8314,80.22595,21.8332,80.22785,200,0.78
+BGT-B1-Z1-C005,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8323,80.2288,21.8314,80.22785,21.8332,80.22975,200,0.78
+BGT-B1-Z1-C006,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8341,80.2212,21.8332,80.22025,21.835,80.22215,200,0.78
+BGT-B1-Z1-C007,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8341,80.2231,21.8332,80.22215,21.835,80.22405,200,0.78
+BGT-B1-Z1-C008,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8341,80.225,21.8332,80.22405,21.835,80.22595,200,0.78
+BGT-B1-Z1-C009,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8341,80.2269,21.8332,80.22595,21.835,80.22785,200,0.78
+BGT-B1-Z1-C010,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8341,80.2288,21.8332,80.22785,21.835,80.22975,200,0.78
+BGT-B1-Z1-C011,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8359,80.2212,21.835,80.22025,21.8368,80.22215,200,0.78
+BGT-B1-Z1-C012,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8359,80.2231,21.835,80.22215,21.8368,80.22405,200,0.78
+BGT-B1-Z1-C013,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8359,80.225,21.835,80.22405,21.8368,80.22595,200,0.78
+BGT-B1-Z1-C014,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8359,80.2269,21.835,80.22595,21.8368,80.22785,200,0.78
+BGT-B1-Z1-C015,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8359,80.2288,21.835,80.22785,21.8368,80.22975,200,0.78
+BGT-B1-Z1-C016,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8377,80.2212,21.8368,80.22025,21.8386,80.22215,200,0.78
+BGT-B1-Z1-C017,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8377,80.2231,21.8368,80.22215,21.8386,80.22405,200,0.78
+BGT-B1-Z1-C018,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8377,80.225,21.8368,80.22405,21.8386,80.22595,200,0.78
+BGT-B1-Z1-C019,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8377,80.2269,21.8368,80.22595,21.8386,80.22785,200,0.78
+BGT-B1-Z1-C020,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z1,Bharveli Main Lode Zone,21.8377,80.2288,21.8368,80.22785,21.8386,80.22975,200,0.78
+BGT-B1-Z2-C001,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8323,80.2312,21.8314,80.23025,21.8332,80.23215,200,0.35
+BGT-B1-Z2-C002,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8323,80.2331,21.8314,80.23215,21.8332,80.23405,200,0.35
+BGT-B1-Z2-C003,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8323,80.235,21.8314,80.23405,21.8332,80.23595,200,0.35
+BGT-B1-Z2-C004,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8323,80.2369,21.8314,80.23595,21.8332,80.23785,200,0.35
+BGT-B1-Z2-C005,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8323,80.2388,21.8314,80.23785,21.8332,80.23975,200,0.35
+BGT-B1-Z2-C006,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8341,80.2312,21.8332,80.23025,21.835,80.23215,200,0.35
+BGT-B1-Z2-C007,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8341,80.2331,21.8332,80.23215,21.835,80.23405,200,0.35
+BGT-B1-Z2-C008,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8341,80.235,21.8332,80.23405,21.835,80.23595,200,0.35
+BGT-B1-Z2-C009,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8341,80.2369,21.8332,80.23595,21.835,80.23785,200,0.35
+BGT-B1-Z2-C010,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8341,80.2388,21.8332,80.23785,21.835,80.23975,200,0.35
+BGT-B1-Z2-C011,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8359,80.2312,21.835,80.23025,21.8368,80.23215,200,0.35
+BGT-B1-Z2-C012,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8359,80.2331,21.835,80.23215,21.8368,80.23405,200,0.35
+BGT-B1-Z2-C013,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8359,80.235,21.835,80.23405,21.8368,80.23595,200,0.35
+BGT-B1-Z2-C014,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8359,80.2369,21.835,80.23595,21.8368,80.23785,200,0.35
+BGT-B1-Z2-C015,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8359,80.2388,21.835,80.23785,21.8368,80.23975,200,0.35
+BGT-B1-Z2-C016,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8377,80.2312,21.8368,80.23025,21.8386,80.23215,200,0.35
+BGT-B1-Z2-C017,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8377,80.2331,21.8368,80.23215,21.8386,80.23405,200,0.35
+BGT-B1-Z2-C018,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8377,80.235,21.8368,80.23405,21.8386,80.23595,200,0.35
+BGT-B1-Z2-C019,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8377,80.2369,21.8368,80.23595,21.8386,80.23785,200,0.35
+BGT-B1-Z2-C020,balaghat,Balaghat (Bharveli) Mine,BGT-B1,Central Block,BGT-B1-Z2,Hanging Wall Schist Zone,21.8377,80.2388,21.8368,80.23785,21.8386,80.23975,200,0.35
+BGT-B2-Z1-C001,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8173,80.2112,21.8164,80.21025,21.8182,80.21215,200,0.85
+BGT-B2-Z1-C002,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8173,80.2131,21.8164,80.21215,21.8182,80.21405,200,0.85
+BGT-B2-Z1-C003,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8173,80.215,21.8164,80.21405,21.8182,80.21595,200,0.85
+BGT-B2-Z1-C004,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8173,80.2169,21.8164,80.21595,21.8182,80.21785,200,0.85
+BGT-B2-Z1-C005,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8173,80.2188,21.8164,80.21785,21.8182,80.21975,200,0.85
+BGT-B2-Z1-C006,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8191,80.2112,21.8182,80.21025,21.82,80.21215,200,0.85
+BGT-B2-Z1-C007,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8191,80.2131,21.8182,80.21215,21.82,80.21405,200,0.85
+BGT-B2-Z1-C008,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8191,80.215,21.8182,80.21405,21.82,80.21595,200,0.85
+BGT-B2-Z1-C009,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8191,80.2169,21.8182,80.21595,21.82,80.21785,200,0.85
+BGT-B2-Z1-C010,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8191,80.2188,21.8182,80.21785,21.82,80.21975,200,0.85
+BGT-B2-Z1-C011,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8209,80.2112,21.82,80.21025,21.8218,80.21215,200,0.85
+BGT-B2-Z1-C012,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8209,80.2131,21.82,80.21215,21.8218,80.21405,200,0.85
+BGT-B2-Z1-C013,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8209,80.215,21.82,80.21405,21.8218,80.21595,200,0.85
+BGT-B2-Z1-C014,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8209,80.2169,21.82,80.21595,21.8218,80.21785,200,0.85
+BGT-B2-Z1-C015,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8209,80.2188,21.82,80.21785,21.8218,80.21975,200,0.85
+BGT-B2-Z1-C016,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8227,80.2112,21.8218,80.21025,21.8236,80.21215,200,0.85
+BGT-B2-Z1-C017,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8227,80.2131,21.8218,80.21215,21.8236,80.21405,200,0.85
+BGT-B2-Z1-C018,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8227,80.215,21.8218,80.21405,21.8236,80.21595,200,0.85
+BGT-B2-Z1-C019,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8227,80.2169,21.8218,80.21595,21.8236,80.21785,200,0.85
+BGT-B2-Z1-C020,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z1,Stope North Zone,21.8227,80.2188,21.8218,80.21785,21.8236,80.21975,200,0.85
+BGT-B2-Z2-C001,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8173,80.2212,21.8164,80.22025,21.8182,80.22215,200,0.45
+BGT-B2-Z2-C002,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8173,80.2231,21.8164,80.22215,21.8182,80.22405,200,0.45
+BGT-B2-Z2-C003,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8173,80.225,21.8164,80.22405,21.8182,80.22595,200,0.45
+BGT-B2-Z2-C004,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8173,80.2269,21.8164,80.22595,21.8182,80.22785,200,0.45
+BGT-B2-Z2-C005,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8173,80.2288,21.8164,80.22785,21.8182,80.22975,200,0.45
+BGT-B2-Z2-C006,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8191,80.2212,21.8182,80.22025,21.82,80.22215,200,0.45
+BGT-B2-Z2-C007,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8191,80.2231,21.8182,80.22215,21.82,80.22405,200,0.45
+BGT-B2-Z2-C008,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8191,80.225,21.8182,80.22405,21.82,80.22595,200,0.45
+BGT-B2-Z2-C009,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8191,80.2269,21.8182,80.22595,21.82,80.22785,200,0.45
+BGT-B2-Z2-C010,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8191,80.2288,21.8182,80.22785,21.82,80.22975,200,0.45
+BGT-B2-Z2-C011,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8209,80.2212,21.82,80.22025,21.8218,80.22215,200,0.45
+BGT-B2-Z2-C012,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8209,80.2231,21.82,80.22215,21.8218,80.22405,200,0.45
+BGT-B2-Z2-C013,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8209,80.225,21.82,80.22405,21.8218,80.22595,200,0.45
+BGT-B2-Z2-C014,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8209,80.2269,21.82,80.22595,21.8218,80.22785,200,0.45
+BGT-B2-Z2-C015,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8209,80.2288,21.82,80.22785,21.8218,80.22975,200,0.45
+BGT-B2-Z2-C016,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8227,80.2212,21.8218,80.22025,21.8236,80.22215,200,0.45
+BGT-B2-Z2-C017,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8227,80.2231,21.8218,80.22215,21.8236,80.22405,200,0.45
+BGT-B2-Z2-C018,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8227,80.225,21.8218,80.22405,21.8236,80.22595,200,0.45
+BGT-B2-Z2-C019,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8227,80.2269,21.8218,80.22595,21.8236,80.22785,200,0.45
+BGT-B2-Z2-C020,balaghat,Balaghat (Bharveli) Mine,BGT-B2,Deep Mining Block,BGT-B2-Z2,Shaft Pillar Protection Zone,21.8227,80.2288,21.8218,80.22785,21.8236,80.22975,200,0.45
+BGT-B3-Z1-C001,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8503,80.2332,21.8494,80.23225,21.8512,80.23415,200,0.62
+BGT-B3-Z1-C002,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8503,80.2351,21.8494,80.23415,21.8512,80.23605,200,0.62
+BGT-B3-Z1-C003,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8503,80.237,21.8494,80.23605,21.8512,80.23795,200,0.62
+BGT-B3-Z1-C004,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8503,80.2389,21.8494,80.23795,21.8512,80.23985,200,0.62
+BGT-B3-Z1-C005,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8503,80.2408,21.8494,80.23985,21.8512,80.24175,200,0.62
+BGT-B3-Z1-C006,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8521,80.2332,21.8512,80.23225,21.853,80.23415,200,0.62
+BGT-B3-Z1-C007,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8521,80.2351,21.8512,80.23415,21.853,80.23605,200,0.62
+BGT-B3-Z1-C008,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8521,80.237,21.8512,80.23605,21.853,80.23795,200,0.62
+BGT-B3-Z1-C009,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8521,80.2389,21.8512,80.23795,21.853,80.23985,200,0.62
+BGT-B3-Z1-C010,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8521,80.2408,21.8512,80.23985,21.853,80.24175,200,0.62
+BGT-B3-Z1-C011,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8539,80.2332,21.853,80.23225,21.8548,80.23415,200,0.62
+BGT-B3-Z1-C012,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8539,80.2351,21.853,80.23415,21.8548,80.23605,200,0.62
+BGT-B3-Z1-C013,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8539,80.237,21.853,80.23605,21.8548,80.23795,200,0.62
+BGT-B3-Z1-C014,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8539,80.2389,21.853,80.23795,21.8548,80.23985,200,0.62
+BGT-B3-Z1-C015,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8539,80.2408,21.853,80.23985,21.8548,80.24175,200,0.62
+BGT-B3-Z1-C016,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8557,80.2332,21.8548,80.23225,21.8566,80.23415,200,0.62
+BGT-B3-Z1-C017,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8557,80.2351,21.8548,80.23415,21.8566,80.23605,200,0.62
+BGT-B3-Z1-C018,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8557,80.237,21.8548,80.23605,21.8566,80.23795,200,0.62
+BGT-B3-Z1-C019,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8557,80.2389,21.8548,80.23795,21.8566,80.23985,200,0.62
+BGT-B3-Z1-C020,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z1,North Incline Prospect Zone,21.8557,80.2408,21.8548,80.23985,21.8566,80.24175,200,0.62
+BGT-B3-Z2-C001,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8503,80.2432,21.8494,80.24225,21.8512,80.24415,200,0.2
+BGT-B3-Z2-C002,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8503,80.2451,21.8494,80.24415,21.8512,80.24605,200,0.2
+BGT-B3-Z2-C003,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8503,80.247,21.8494,80.24605,21.8512,80.24795,200,0.2
+BGT-B3-Z2-C004,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8503,80.2489,21.8494,80.24795,21.8512,80.24985,200,0.2
+BGT-B3-Z2-C005,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8503,80.2508,21.8494,80.24985,21.8512,80.25175,200,0.2
+BGT-B3-Z2-C006,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8521,80.2432,21.8512,80.24225,21.853,80.24415,200,0.2
+BGT-B3-Z2-C007,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8521,80.2451,21.8512,80.24415,21.853,80.24605,200,0.2
+BGT-B3-Z2-C008,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8521,80.247,21.8512,80.24605,21.853,80.24795,200,0.2
+BGT-B3-Z2-C009,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8521,80.2489,21.8512,80.24795,21.853,80.24985,200,0.2
+BGT-B3-Z2-C010,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8521,80.2508,21.8512,80.24985,21.853,80.25175,200,0.2
+BGT-B3-Z2-C011,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8539,80.2432,21.853,80.24225,21.8548,80.24415,200,0.2
+BGT-B3-Z2-C012,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8539,80.2451,21.853,80.24415,21.8548,80.24605,200,0.2
+BGT-B3-Z2-C013,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8539,80.247,21.853,80.24605,21.8548,80.24795,200,0.2
+BGT-B3-Z2-C014,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8539,80.2489,21.853,80.24795,21.8548,80.24985,200,0.2
+BGT-B3-Z2-C015,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8539,80.2508,21.853,80.24985,21.8548,80.25175,200,0.2
+BGT-B3-Z2-C016,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8557,80.2432,21.8548,80.24225,21.8566,80.24415,200,0.2
+BGT-B3-Z2-C017,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8557,80.2451,21.8548,80.24415,21.8566,80.24605,200,0.2
+BGT-B3-Z2-C018,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8557,80.247,21.8548,80.24605,21.8566,80.24795,200,0.2
+BGT-B3-Z2-C019,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8557,80.2489,21.8548,80.24795,21.8566,80.24985,200,0.2
+BGT-B3-Z2-C020,balaghat,Balaghat (Bharveli) Mine,BGT-B3,North Exploration Block,BGT-B3-Z2,Western Boundary Buffer Zone,21.8557,80.2508,21.8548,80.24985,21.8566,80.25175,200,0.2
+UKW-B1-Z1-C001,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9723,80.4762,21.9714,80.47525,21.9732,80.47715,200,0.8
+UKW-B1-Z1-C002,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9723,80.4781,21.9714,80.47715,21.9732,80.47905,200,0.8
+UKW-B1-Z1-C003,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9723,80.48,21.9714,80.47905,21.9732,80.48095,200,0.8
+UKW-B1-Z1-C004,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9723,80.4819,21.9714,80.48095,21.9732,80.48285,200,0.8
+UKW-B1-Z1-C005,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9723,80.4838,21.9714,80.48285,21.9732,80.48475,200,0.8
+UKW-B1-Z1-C006,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9741,80.4762,21.9732,80.47525,21.975,80.47715,200,0.8
+UKW-B1-Z1-C007,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9741,80.4781,21.9732,80.47715,21.975,80.47905,200,0.8
+UKW-B1-Z1-C008,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9741,80.48,21.9732,80.47905,21.975,80.48095,200,0.8
+UKW-B1-Z1-C009,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9741,80.4819,21.9732,80.48095,21.975,80.48285,200,0.8
+UKW-B1-Z1-C010,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9741,80.4838,21.9732,80.48285,21.975,80.48475,200,0.8
+UKW-B1-Z1-C011,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9759,80.4762,21.975,80.47525,21.9768,80.47715,200,0.8
+UKW-B1-Z1-C012,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9759,80.4781,21.975,80.47715,21.9768,80.47905,200,0.8
+UKW-B1-Z1-C013,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9759,80.48,21.975,80.47905,21.9768,80.48095,200,0.8
+UKW-B1-Z1-C014,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9759,80.4819,21.975,80.48095,21.9768,80.48285,200,0.8
+UKW-B1-Z1-C015,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9759,80.4838,21.975,80.48285,21.9768,80.48475,200,0.8
+UKW-B1-Z1-C016,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9777,80.4762,21.9768,80.47525,21.9786,80.47715,200,0.8
+UKW-B1-Z1-C017,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9777,80.4781,21.9768,80.47715,21.9786,80.47905,200,0.8
+UKW-B1-Z1-C018,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9777,80.48,21.9768,80.47905,21.9786,80.48095,200,0.8
+UKW-B1-Z1-C019,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9777,80.4819,21.9768,80.48095,21.9786,80.48285,200,0.8
+UKW-B1-Z1-C020,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z1,East Ore Body Zone,21.9777,80.4838,21.9768,80.48285,21.9786,80.48475,200,0.8
+UKW-B1-Z2-C001,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9723,80.4862,21.9714,80.48525,21.9732,80.48715,200,0.25
+UKW-B1-Z2-C002,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9723,80.4881,21.9714,80.48715,21.9732,80.48905,200,0.25
+UKW-B1-Z2-C003,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9723,80.49,21.9714,80.48905,21.9732,80.49095,200,0.25
+UKW-B1-Z2-C004,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9723,80.4919,21.9714,80.49095,21.9732,80.49285,200,0.25
+UKW-B1-Z2-C005,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9723,80.4938,21.9714,80.49285,21.9732,80.49475,200,0.25
+UKW-B1-Z2-C006,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9741,80.4862,21.9732,80.48525,21.975,80.48715,200,0.25
+UKW-B1-Z2-C007,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9741,80.4881,21.9732,80.48715,21.975,80.48905,200,0.25
+UKW-B1-Z2-C008,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9741,80.49,21.9732,80.48905,21.975,80.49095,200,0.25
+UKW-B1-Z2-C009,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9741,80.4919,21.9732,80.49095,21.975,80.49285,200,0.25
+UKW-B1-Z2-C010,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9741,80.4938,21.9732,80.49285,21.975,80.49475,200,0.25
+UKW-B1-Z2-C011,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9759,80.4862,21.975,80.48525,21.9768,80.48715,200,0.25
+UKW-B1-Z2-C012,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9759,80.4881,21.975,80.48715,21.9768,80.48905,200,0.25
+UKW-B1-Z2-C013,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9759,80.49,21.975,80.48905,21.9768,80.49095,200,0.25
+UKW-B1-Z2-C014,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9759,80.4919,21.975,80.49095,21.9768,80.49285,200,0.25
+UKW-B1-Z2-C015,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9759,80.4938,21.975,80.49285,21.9768,80.49475,200,0.25
+UKW-B1-Z2-C016,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9777,80.4862,21.9768,80.48525,21.9786,80.48715,200,0.25
+UKW-B1-Z2-C017,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9777,80.4881,21.9768,80.48715,21.9786,80.48905,200,0.25
+UKW-B1-Z2-C018,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9777,80.49,21.9768,80.48905,21.9786,80.49095,200,0.25
+UKW-B1-Z2-C019,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9777,80.4919,21.9768,80.49095,21.9786,80.49285,200,0.25
+UKW-B1-Z2-C020,ukwa,Ukwa Mine,UKW-B1,East Section Block,UKW-B1-Z2,East Boundary Buffer Zone,21.9777,80.4938,21.9768,80.49285,21.9786,80.49475,200,0.25
+UKW-B2-Z1-C001,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9723,80.4562,21.9714,80.45525,21.9732,80.45715,200,0.88
+UKW-B2-Z1-C002,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9723,80.4581,21.9714,80.45715,21.9732,80.45905,200,0.88
+UKW-B2-Z1-C003,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9723,80.46,21.9714,80.45905,21.9732,80.46095,200,0.88
+UKW-B2-Z1-C004,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9723,80.4619,21.9714,80.46095,21.9732,80.46285,200,0.88
+UKW-B2-Z1-C005,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9723,80.4638,21.9714,80.46285,21.9732,80.46475,200,0.88
+UKW-B2-Z1-C006,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9741,80.4562,21.9732,80.45525,21.975,80.45715,200,0.88
+UKW-B2-Z1-C007,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9741,80.4581,21.9732,80.45715,21.975,80.45905,200,0.88
+UKW-B2-Z1-C008,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9741,80.46,21.9732,80.45905,21.975,80.46095,200,0.88
+UKW-B2-Z1-C009,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9741,80.4619,21.9732,80.46095,21.975,80.46285,200,0.88
+UKW-B2-Z1-C010,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9741,80.4638,21.9732,80.46285,21.975,80.46475,200,0.88
+UKW-B2-Z1-C011,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9759,80.4562,21.975,80.45525,21.9768,80.45715,200,0.88
+UKW-B2-Z1-C012,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9759,80.4581,21.975,80.45715,21.9768,80.45905,200,0.88
+UKW-B2-Z1-C013,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9759,80.46,21.975,80.45905,21.9768,80.46095,200,0.88
+UKW-B2-Z1-C014,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9759,80.4619,21.975,80.46095,21.9768,80.46285,200,0.88
+UKW-B2-Z1-C015,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9759,80.4638,21.975,80.46285,21.9768,80.46475,200,0.88
+UKW-B2-Z1-C016,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9777,80.4562,21.9768,80.45525,21.9786,80.45715,200,0.88
+UKW-B2-Z1-C017,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9777,80.4581,21.9768,80.45715,21.9786,80.45905,200,0.88
+UKW-B2-Z1-C018,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9777,80.46,21.9768,80.45905,21.9786,80.46095,200,0.88
+UKW-B2-Z1-C019,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9777,80.4619,21.9768,80.46095,21.9786,80.46285,200,0.88
+UKW-B2-Z1-C020,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z1,Central Stope Zone,21.9777,80.4638,21.9768,80.46285,21.9786,80.46475,200,0.88
+UKW-B2-Z2-C001,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9723,80.4662,21.9714,80.46525,21.9732,80.46715,200,0.5
+UKW-B2-Z2-C002,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9723,80.4681,21.9714,80.46715,21.9732,80.46905,200,0.5
+UKW-B2-Z2-C003,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9723,80.47,21.9714,80.46905,21.9732,80.47095,200,0.5
+UKW-B2-Z2-C004,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9723,80.4719,21.9714,80.47095,21.9732,80.47285,200,0.5
+UKW-B2-Z2-C005,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9723,80.4738,21.9714,80.47285,21.9732,80.47475,200,0.5
+UKW-B2-Z2-C006,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9741,80.4662,21.9732,80.46525,21.975,80.46715,200,0.5
+UKW-B2-Z2-C007,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9741,80.4681,21.9732,80.46715,21.975,80.46905,200,0.5
+UKW-B2-Z2-C008,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9741,80.47,21.9732,80.46905,21.975,80.47095,200,0.5
+UKW-B2-Z2-C009,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9741,80.4719,21.9732,80.47095,21.975,80.47285,200,0.5
+UKW-B2-Z2-C010,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9741,80.4738,21.9732,80.47285,21.975,80.47475,200,0.5
+UKW-B2-Z2-C011,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9759,80.4662,21.975,80.46525,21.9768,80.46715,200,0.5
+UKW-B2-Z2-C012,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9759,80.4681,21.975,80.46715,21.9768,80.46905,200,0.5
+UKW-B2-Z2-C013,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9759,80.47,21.975,80.46905,21.9768,80.47095,200,0.5
+UKW-B2-Z2-C014,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9759,80.4719,21.975,80.47095,21.9768,80.47285,200,0.5
+UKW-B2-Z2-C015,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9759,80.4738,21.975,80.47285,21.9768,80.47475,200,0.5
+UKW-B2-Z2-C016,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9777,80.4662,21.9768,80.46525,21.9786,80.46715,200,0.5
+UKW-B2-Z2-C017,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9777,80.4681,21.9768,80.46715,21.9786,80.46905,200,0.5
+UKW-B2-Z2-C018,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9777,80.47,21.9768,80.46905,21.9786,80.47095,200,0.5
+UKW-B2-Z2-C019,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9777,80.4719,21.9768,80.47095,21.9786,80.47285,200,0.5
+UKW-B2-Z2-C020,ukwa,Ukwa Mine,UKW-B2,Central Underground Block,UKW-B2-Z2,Central Winze Zone,21.9777,80.4738,21.9768,80.47285,21.9786,80.47475,200,0.5
+UKW-B3-Z1-C001,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9603,80.4412,21.9594,80.44025,21.9612,80.44215,200,0.65
+UKW-B3-Z1-C002,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9603,80.4431,21.9594,80.44215,21.9612,80.44405,200,0.65
+UKW-B3-Z1-C003,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9603,80.445,21.9594,80.44405,21.9612,80.44595,200,0.65
+UKW-B3-Z1-C004,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9603,80.4469,21.9594,80.44595,21.9612,80.44785,200,0.65
+UKW-B3-Z1-C005,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9603,80.4488,21.9594,80.44785,21.9612,80.44975,200,0.65
+UKW-B3-Z1-C006,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9621,80.4412,21.9612,80.44025,21.963,80.44215,200,0.65
+UKW-B3-Z1-C007,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9621,80.4431,21.9612,80.44215,21.963,80.44405,200,0.65
+UKW-B3-Z1-C008,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9621,80.445,21.9612,80.44405,21.963,80.44595,200,0.65
+UKW-B3-Z1-C009,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9621,80.4469,21.9612,80.44595,21.963,80.44785,200,0.65
+UKW-B3-Z1-C010,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9621,80.4488,21.9612,80.44785,21.963,80.44975,200,0.65
+UKW-B3-Z1-C011,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9639,80.4412,21.963,80.44025,21.9648,80.44215,200,0.65
+UKW-B3-Z1-C012,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9639,80.4431,21.963,80.44215,21.9648,80.44405,200,0.65
+UKW-B3-Z1-C013,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9639,80.445,21.963,80.44405,21.9648,80.44595,200,0.65
+UKW-B3-Z1-C014,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9639,80.4469,21.963,80.44595,21.9648,80.44785,200,0.65
+UKW-B3-Z1-C015,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9639,80.4488,21.963,80.44785,21.9648,80.44975,200,0.65
+UKW-B3-Z1-C016,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9657,80.4412,21.9648,80.44025,21.9666,80.44215,200,0.65
+UKW-B3-Z1-C017,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9657,80.4431,21.9648,80.44215,21.9666,80.44405,200,0.65
+UKW-B3-Z1-C018,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9657,80.445,21.9648,80.44405,21.9666,80.44595,200,0.65
+UKW-B3-Z1-C019,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9657,80.4469,21.9648,80.44595,21.9666,80.44785,200,0.65
+UKW-B3-Z1-C020,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z1,West Incline Zone,21.9657,80.4488,21.9648,80.44785,21.9666,80.44975,200,0.65
+UKW-B3-Z2-C001,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9603,80.4512,21.9594,80.45025,21.9612,80.45215,200,0.3
+UKW-B3-Z2-C002,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9603,80.4531,21.9594,80.45215,21.9612,80.45405,200,0.3
+UKW-B3-Z2-C003,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9603,80.455,21.9594,80.45405,21.9612,80.45595,200,0.3
+UKW-B3-Z2-C004,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9603,80.4569,21.9594,80.45595,21.9612,80.45785,200,0.3
+UKW-B3-Z2-C005,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9603,80.4588,21.9594,80.45785,21.9612,80.45975,200,0.3
+UKW-B3-Z2-C006,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9621,80.4512,21.9612,80.45025,21.963,80.45215,200,0.3
+UKW-B3-Z2-C007,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9621,80.4531,21.9612,80.45215,21.963,80.45405,200,0.3
+UKW-B3-Z2-C008,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9621,80.455,21.9612,80.45405,21.963,80.45595,200,0.3
+UKW-B3-Z2-C009,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9621,80.4569,21.9612,80.45595,21.963,80.45785,200,0.3
+UKW-B3-Z2-C010,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9621,80.4588,21.9612,80.45785,21.963,80.45975,200,0.3
+UKW-B3-Z2-C011,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9639,80.4512,21.963,80.45025,21.9648,80.45215,200,0.3
+UKW-B3-Z2-C012,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9639,80.4531,21.963,80.45215,21.9648,80.45405,200,0.3
+UKW-B3-Z2-C013,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9639,80.455,21.963,80.45405,21.9648,80.45595,200,0.3
+UKW-B3-Z2-C014,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9639,80.4569,21.963,80.45595,21.9648,80.45785,200,0.3
+UKW-B3-Z2-C015,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9639,80.4588,21.963,80.45785,21.9648,80.45975,200,0.3
+UKW-B3-Z2-C016,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9657,80.4512,21.9648,80.45025,21.9666,80.45215,200,0.3
+UKW-B3-Z2-C017,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9657,80.4531,21.9648,80.45215,21.9666,80.45405,200,0.3
+UKW-B3-Z2-C018,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9657,80.455,21.9648,80.45405,21.9666,80.45595,200,0.3
+UKW-B3-Z2-C019,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9657,80.4569,21.9648,80.45595,21.9666,80.45785,200,0.3
+UKW-B3-Z2-C020,ukwa,Ukwa Mine,UKW-B3,West Incline Block,UKW-B3-Z2,Gondite Exploration Zone,21.9657,80.4588,21.9648,80.45785,21.9666,80.45975,200,0.3
